@@ -1,0 +1,1219 @@
+Order_ID,Order_Date,Segment,Region,City,Category,Sub_Category,Quantity,Sales,Discount,Profit,Shipping_Days
+ORD-10541,2023-03-13,Consumer,North,Chandigarh,Furniture,Tables,2.0,170.51,0.1,11.81,7
+ORD-10259,2023-02-02,Home Office,North,Lucknow,Office Supplies,Art,7.0,1096.25,0.1,53.69,4
+ORD-10043,2023-09-21,Corporate,North,Chandigarh,Office Supplies,Art,1.0,60.54,0.2,3.29,1
+ORD-11008,2023-06-15,Consumer,West,Ahmedabad,Furniture,Tables,2.0,601.12,0.15,25.95,7
+ORD-10584,2023-08-14,Home Office,South,Bengaluru,Office Supplies,Binders,7.0,1060.62,0.0,188.88,5
+ORD-10310,2024-12-09,Corporate,East,Kolkata,Technology,Machines,1.0,226.28,0.15,27.8,3
+ORD-10657,2024-10-19,Corporate,East,Bhubaneswar,Technology,Machines,4.0,1254.55,0.0,228.92,6
+ORD-10044,2024-07-06,Home Office,North,Chandigarh,Technology,Phones,7.0,4755.75,0.3,365.57,1
+ORD-10210,2024-02-12,Consumer,East,Kolkata,Office Supplies,Storage,1.0,249.51,0.0,38.42,2
+ORD-10155,2024-10-18,Corporate,South,Hyderabad,Office Supplies,Binders,4.0,487.12,0.0,100.33,1
+ORD-10558,2025-04-17,Corporate,North,Delhi,Technology,Accessories,1.0,392.32,0.0,66.97,3
+ORD-10411,2024-12-06,Corporate,South,Chennai,Office Supplies,Paper,4.0,395.49,0.15,29.89,2
+ORD-11007,2023-04-06,Home Office,West,Pune,Office Supplies,Binders,3.0,443.83,0.0,79.86,5
+ORD-10493,2024-03-11,Home Office,East,Guwahati,Office Supplies,Paper,4.0,661.43,0.1,76.52,4
+ORD-11067,2024-02-27,Home Office,East,Guwahati,Technology,Phones,5.0,1960.66,,379.37,7
+ORD-10522,2025-03-06,Consumer,West,Surat,Furniture,Chairs,6.0,2526.98,0.1,127.8,1
+ORD-10543,2025-06-05,Corporate,East,Bhubaneswar,Office Supplies,Art,1.0,44.83,0.0,7.6,5
+ORD-10551,2024-06-19,Home Office,North,Chandigarh,Technology,Machines,7.0,2876.25,0.05,465.14,5
+ORD-10428,2024-08-15,Consumer,North,Jaipur,Furniture,Chairs,4.0,1533.11,0.1,109.19,1
+ORD-10422,2024-10-19,Consumer,West,Surat,Technology,Accessories,3.0,713.13,0.05,119.97,4
+ORD-10739,2023-05-21,Corporate,West,Pune,Office Supplies,Binders,6.0,301.42,0.05,46.85,3
+ORD-10458,2024-05-09,Home Office,East,Patna,Technology,Machines,7.0,4969.52,0.2,607.49,4
+ORD-11148,2024-12-20,Corporate,West,Ahmedabad,Technology,Accessories,6.0,4053.38,0.1,569.62,7
+ORD-10423,2025-01-10,Consumer,East,Kolkata,Office Supplies,Storage,4.0,911.95,0.1,83.7,3
+ORD-10298,2023-09-04,Home Office,South,Bengaluru,Office Supplies,Storage,4.0,342.75,0.2,6.89,6
+ORD-11029,2023-06-11,Home Office,North,Delhi,Office Supplies,Art,1.0,68.37,0.1,11.05,6
+ORD-10350,2023-01-24,Home Office,North,Lucknow,Technology,Machines,6.0,1607.01,0.1,219.68,7
+ORD-10652,2024-11-14,Corporate,North,Jaipur,Technology,Machines,4.0,1619.49,0.05,308.5,3
+ORD-10820,2023-05-02,Consumer,South,Hyderabad,Technology,Machines,7.0,4177.68,0.05,519.05,3
+ORD-10855,2023-05-07,Home Office,South,Kochi,Technology,Accessories,3.0,1105.21,0.15,138.26,1
+ORD-10533,2023-11-25,Consumer,North,Chandigarh,Furniture,Tables,2.0,605.03,0.0,82.08,7
+ORD-10107,2024-11-01,Home Office,West,Pune,Office Supplies,Paper,8.0,1153.13,0.05,199.96,3
+ORD-10439,2024-08-17,Consumer,East,Guwahati,Office Supplies,Binders,6.0,258.0,0.1,27.64,1
+ORD-10884,2023-11-01,Consumer,East,Bhubaneswar,Office Supplies,Art,2.0,60.61,0.3,-4.02,3
+ORD-10900,2024-07-26,Home Office,West,Mumbai,Office Supplies,Storage,3.0,773.85,0.1,76.04,5
+ORD-10078,2024-01-29,Home Office,South,Chennai,Furniture,Tables,4.0,2467.4,0.05,83.97,7
+ORD-11090,2024-09-13,Consumer,West,Ahmedabad,Technology,Accessories,4.0,1999.93,0.2,68.04,6
+ORD-10715,2024-06-18,Consumer,West,Mumbai,Technology,Accessories,3.0,944.96,0.15,116.58,1
+ORD-10076,2024-02-20,Home Office,North,Delhi,Technology,Phones,8.0,3799.18,0.0,754.43,7
+ORD-10770,2025-04-02,Corporate,South,Chennai,Furniture,Tables,8.0,3755.71,0.0,411.62,5
+ORD-10044,2024-07-06,Home Office,North,Chandigarh,Technology,Phones,7.0,4755.75,0.3,365.57,1
+ORD-11108,2023-07-15,Corporate,East,Kolkata,Office Supplies,Storage,2.0,400.07,0.2,-0.02,7
+ORD-10864,2025-05-15,Home Office,West,Surat,Technology,Machines,1.0,567.69,0.05,70.64,1
+ORD-10113,2023-01-20,Home Office,South,Kochi,Office Supplies,Art,3.0,231.31,0.4,-30.99,6
+ORD-10849,2024-11-05,Consumer,East,Kolkata,Technology,Accessories,7.0,5369.13,0.1,632.83,2
+ORD-10265,2023-08-21,Corporate,East,Patna,Furniture,Bookcases,6.0,3458.42,0.3,-504.89,5
+ORD-10415,2023-05-01,Home Office,South,Hyderabad,Furniture,Tables,8.0,5657.87,0.0,524.41,1
+ORD-10494,2023-05-03,Consumer,West,Ahmedabad,Furniture,Tables,3.0,657.06,0.1,57.32,4
+ORD-10644,2023-08-14,Home Office,South,Bengaluru,Furniture,Chairs,7.0,4269.86,0.0,355.48,6
+ORD-10371,2023-07-30,Consumer,North,Lucknow,Furniture,Chairs,2.0,1113.16,0.05,101.93,7
+ORD-10745,2025-02-15,Consumer,South,Kochi,Furniture,Chairs,,538.34,0.1,21.68,2
+ORD-10240,2025-03-20,Corporate,South,Hyderabad,Technology,Phones,4.0,2572.04,0.05,354.71,2
+ORD-10192,2024-03-03,Corporate,East,Kolkata,Furniture,Bookcases,5.0,3328.94,0.0,261.46,5
+ORD-10707,2023-05-03,Corporate,West,Pune,Technology,Accessories,8.0,758.15,0.2,91.46,1
+ORD-10594,2024-01-17,Home Office,North,Lucknow,Office Supplies,Binders,6.0,82.87,0.0,15.35,5
+ORD-10585,2024-03-03,Home Office,East,Patna,Office Supplies,Art,3.0,139.97,0.15,7.08,3
+ORD-10297,2023-07-04,Home Office,East,Guwahati,Furniture,Chairs,2.0,1242.27,0.05,133.82,5
+ORD-10319,2024-09-05,Home Office,West,Pune,Office Supplies,Storage,5.0,50.68,0.15,3.3,4
+ORD-10590,2024-08-08,Consumer,East,Kolkata,Furniture,Tables,5.0,1933.68,0.15,33.3,5
+ORD-10081,2023-08-15,Home Office,West,Ahmedabad,Technology,Phones,7.0,3697.53,0.2,154.73,4
+ORD-10527,2024-12-20,Corporate,East,Bhubaneswar,Furniture,Tables,8.0,5324.16,0.15,357.01,3
+ORD-10768,2025-03-03,Corporate,South,Chennai,Technology,Phones,7.0,6056.38,0.1,1064.88,7
+ORD-10049,2024-12-17,Corporate,East,Bhubaneswar,Furniture,Bookcases,4.0,485.35,0.05,34.1,5
+ORD-10497,2024-06-20,Consumer,South,Bengaluru,Technology,Machines,8.0,5835.19,0.0,1176.88,2
+ORD-10677,2024-11-03,Corporate,East,Kolkata,Office Supplies,Binders,3.0,234.3,0.05,24.72,6
+ORD-10409,2024-01-27,Consumer,East,Patna,Furniture,Bookcases,8.0,3447.66,0.1,274.93,6
+ORD-10901,2024-06-17,Corporate,South,Chennai,Office Supplies,Binders,2.0,287.88,0.15,43.32,1
+ORD-10342,2023-04-03,Consumer,East,,Office Supplies,Binders,1.0,85.75,0.0,12.47,1
+ORD-11119,2023-11-08,Home Office,North,Jaipur,Furniture,Bookcases,3.0,1638.15,0.1,86.12,7
+ORD-10911,2023-06-21,Consumer,West,Pune,Technology,Accessories,2.0,1468.33,0.15,181.32,5
+ORD-10361,2023-02-12,Consumer,North,Chandigarh,Furniture,Bookcases,3.0,680.76,0.15,9.16,3
+ORD-10058,2024-03-23,Home Office,East,Patna,Technology,Phones,2.0,1119.51,0.0,200.78,4
+ORD-10070,2024-06-08,Consumer,West,Pune,Technology,Accessories,1.0,952.13,0.15,94.45,3
+ORD-10907,2023-07-19,Consumer,North,Delhi,Furniture,Tables,3.0,943.76,0.0,133.32,3
+ORD-10023,2025-02-05,Consumer,South,Hyderabad,Office Supplies,Paper,8.0,710.26,0.0,123.88,1
+ORD-10101,2025-03-08,Consumer,North,Lucknow,Office Supplies,Binders,4.0,858.68,0.15,75.43,1
+ORD-10962,2024-01-07,Consumer,North,Lucknow,Technology,Phones,2.0,769.73,0.15,91.88,7
+ORD-10058,2024-03-23,Home Office,East,Patna,Technology,Phones,2.0,1119.51,0.0,200.78,4
+ORD-10829,2024-10-02,Corporate,North,Chandigarh,Furniture,Bookcases,6.0,2270.25,0.4,-279.02,7
+ORD-10927,2024-05-15,Consumer,West,Ahmedabad,Office Supplies,Binders,6.0,1299.29,0.4,-1.41,4
+ORD-10328,2024-02-19,Home Office,West,Surat,Furniture,Chairs,7.0,1155.83,0.15,38.71,1
+ORD-11111,2023-08-21,Home Office,South,Bengaluru,Technology,Machines,1.0,698.64,0.15,87.69,5
+ORD-11023,2023-02-04,Home Office,North,Delhi,Office Supplies,Paper,6.0,767.29,0.15,41.94,5
+ORD-10218,2023-06-20,Corporate,South,Bengaluru,Office Supplies,Storage,2.0,141.51,0.1,14.92,4
+ORD-10296,2024-02-01,Home Office,East,Guwahati,Office Supplies,Paper,3.0,650.56,0.15,53.28,7
+ORD-10989,2024-03-12,Consumer,West,Pune,Office Supplies,Art,5.0,569.78,0.15,18.39,4
+ORD-10937,2024-10-21,Home Office,East,Guwahati,Furniture,Tables,6.0,368.82,0.1,33.82,3
+ORD-10231,2023-11-01,Home Office,South,Chennai,Office Supplies,Paper,1.0,262.71,0.0,39.34,4
+ORD-10762,2023-02-16,Consumer,South,Bengaluru,Office Supplies,Art,3.0,731.79,0.15,61.34,7
+ORD-10945,2024-03-26,Consumer,West,,Office Supplies,Paper,4.0,1015.63,0.3,31.28,1
+ORD-11114,2025-05-15,Corporate,South,Hyderabad,Office Supplies,Paper,,1239.43,0.0,206.89,1
+ORD-10051,2023-06-29,Corporate,East,Patna,Furniture,Tables,6.0,2978.37,0.05,322.7,5
+ORD-10785,2023-06-03,Home Office,East,Bhubaneswar,Furniture,Tables,3.0,1117.05,0.15,-19.97,3
+ORD-10938,2023-09-14,Home Office,East,Kolkata,Office Supplies,Paper,7.0,350.04,0.2,-4.63,5
+ORD-10914,2023-11-10,Consumer,North,Lucknow,Technology,Accessories,6.0,2763.49,0.0,500.64,5
+ORD-10893,2024-04-14,Home Office,West,Pune,Technology,Machines,5.0,2981.13,0.15,390.72,3
+ORD-11164,2024-10-08,Corporate,West,Ahmedabad,Technology,Machines,6.0,2312.71,0.2,82.23,5
+ORD-10109,2023-05-29,Home Office,North,Chandigarh,Technology,Phones,6.0,3886.23,0.0,917.37,7
+ORD-10617,2023-11-22,Corporate,East,Bhubaneswar,Technology,Phones,6.0,1757.29,0.05,204.42,1
+ORD-10123,2024-08-14,Home Office,South,Kochi,Office Supplies,Binders,5.0,940.25,0.1,96.52,1
+ORD-10054,2025-01-24,Corporate,North,Lucknow,Technology,Machines,4.0,3009.55,0.0,488.86,4
+ORD-10969,2024-08-07,Home Office,East,Guwahati,Technology,Machines,7.0,6803.09,0.2,429.17,5
+ORD-11168,2024-05-16,Consumer,West,Mumbai,Office Supplies,Storage,1.0,150.47,0.4,-19.92,2
+ORD-10128,2025-03-26,Home Office,South,Kochi,Technology,Phones,5.0,2749.66,0.3,92.92,4
+ORD-10056,2023-06-01,Corporate,West,Mumbai,Technology,Accessories,6.0,5268.83,0.15,608.82,4
+ORD-10086,2024-08-28,Home Office,South,Chennai,Technology,Accessories,3.0,1965.1,0.15,283.5,5
+ORD-10628,2023-11-03,Home Office,North,Lucknow,Office Supplies,Storage,5.0,816.37,0.0,159.38,5
+ORD-10924,2023-05-04,Corporate,South,Kochi,Office Supplies,Paper,3.0,293.0,0.05,46.42,2
+ORD-10275,2025-04-01,Corporate,North,Delhi,Office Supplies,Storage,7.0,1765.17,0.4,-32.12,3
+ORD-11180,2024-06-23,Home Office,West,Mumbai,Office Supplies,Art,2.0,248.44,0.2,21.01,5
+ORD-10467,2024-07-05,Corporate,North,Chandigarh,Furniture,Bookcases,4.0,1517.26,0.0,96.53,5
+ORD-10170,2024-04-18,Consumer,West,Mumbai,Technology,Phones,8.0,5219.26,0.1,347.12,2
+ORD-10879,2023-07-22,Home Office,South,Bengaluru,Technology,Phones,4.0,1932.91,0.1,273.9,6
+ORD-10778,2024-11-03,Consumer,East,Guwahati,Office Supplies,Binders,3.0,101.32,0.15,9.53,5
+ORD-10591,2023-04-09,Home Office,South,Chennai,Furniture,Bookcases,2.0,573.81,0.0,69.92,1
+ORD-10862,2025-05-26,Consumer,East,Kolkata,Office Supplies,Paper,3.0,386.7,0.15,40.63,6
+ORD-10793,2023-08-24,Home Office,East,Guwahati,Technology,Accessories,2.0,1441.38,0.05,215.0,7
+ORD-10398,2023-07-22,Corporate,West,Ahmedabad,Office Supplies,Paper,1.0,75.37,0.0,12.55,4
+ORD-10978,2024-05-25,Home Office,West,Pune,Technology,Accessories,6.0,1766.85,0.0,360.39,7
+ORD-10894,2025-05-25,Consumer,South,Bengaluru,Furniture,Tables,,954.02,0.4,-71.25,4
+ORD-10732,2024-05-26,Corporate,East,Guwahati,Office Supplies,Binders,3.0,54.31,0.0,10.72,1
+ORD-10890,2023-07-31,Home Office,West,Mumbai,Technology,Phones,4.0,2878.48,0.05,441.64,5
+ORD-11074,2023-02-27,Home Office,West,Surat,Technology,Machines,4.0,1516.93,0.2,119.31,5
+ORD-10717,2023-08-27,Consumer,East,Kolkata,Office Supplies,Art,4.0,587.56,0.4,-49.69,5
+ORD-11161,2023-02-13,Corporate,West,Pune,Furniture,Tables,3.0,1462.69,0.05,96.3,5
+ORD-11075,2024-11-26,Corporate,North,Delhi,Office Supplies,Binders,2.0,186.83,0.05,34.4,3
+ORD-10425,2024-03-23,Corporate,South,Hyderabad,Technology,Accessories,3.0,1216.67,0.4,-125.04,6
+ORD-10535,2024-09-07,Consumer,West,Surat,Furniture,Chairs,6.0,3109.39,0.3,-211.21,5
+ORD-10567,2024-11-20,Consumer,East,Patna,Technology,Accessories,4.0,813.32,0.2,74.17,6
+ORD-10536,2023-05-31,Home Office,East,Guwahati,Furniture,Bookcases,7.0,1715.73,0.3,-128.03,3
+ORD-10694,2024-04-09,Home Office,South,Bengaluru,Technology,Machines,4.0,785.99,0.0,185.95,1
+ORD-10376,2024-12-23,Consumer,North,Lucknow,Office Supplies,Binders,6.0,681.06,0.3,-38.85,6
+ORD-10286,2024-01-10,Corporate,West,,Furniture,Bookcases,6.0,1077.48,0.2,9.78,7
+ORD-10789,2024-05-08,Corporate,East,Kolkata,Office Supplies,Art,5.0,1151.08,0.1,181.43,4
+ORD-10756,2023-01-06,Home Office,North,Delhi,Furniture,Tables,8.0,5684.91,0.1,374.72,3
+ORD-10233,2025-02-22,Consumer,West,Pune,Office Supplies,Paper,3.0,281.64,0.1,35.42,5
+ORD-10355,2024-05-27,Home Office,West,Surat,Furniture,Chairs,8.0,2162.19,0.4,-284.31,4
+ORD-10602,2024-07-12,Home Office,West,Surat,Office Supplies,Binders,8.0,1531.89,0.1,139.12,3
+ORD-11039,2023-10-27,Home Office,East,Kolkata,Technology,Machines,8.0,4618.39,0.15,501.23,2
+ORD-10427,2024-07-03,Corporate,North,Chandigarh,Office Supplies,Storage,3.0,595.83,0.0,97.51,2
+ORD-10583,2023-08-25,Corporate,North,Jaipur,Office Supplies,Paper,8.0,628.14,0.15,74.56,1
+ORD-10843,2024-02-21,Consumer,South,Hyderabad,Office Supplies,Paper,8.0,1249.39,0.1,120.88,7
+ORD-11167,2025-05-18,Corporate,South,Bengaluru,Furniture,Bookcases,5.0,627.33,0.15,18.02,4
+ORD-11009,2023-08-05,Home Office,South,Kochi,Technology,Accessories,8.0,3997.95,0.4,-58.62,5
+ORD-10714,2024-03-25,Home Office,South,Chennai,Office Supplies,Paper,3.0,338.34,0.2,19.15,6
+ORD-10266,2023-01-16,Home Office,East,Patna,Office Supplies,Storage,5.0,1230.52,0.2,58.22,3
+ORD-10199,2023-01-21,Home Office,South,Bengaluru,Technology,Phones,6.0,1593.9,0.0,312.06,2
+ORD-10174,2023-02-02,Corporate,South,Kochi,Furniture,Bookcases,3.0,511.44,0.2,9.17,2
+ORD-10842,2024-07-24,Home Office,North,Lucknow,Furniture,Bookcases,5.0,859.33,0.4,-63.91,6
+ORD-10147,2024-09-06,Home Office,South,Bengaluru,Technology,Phones,8.0,2428.34,0.05,464.85,5
+ORD-10746,2024-06-02,Consumer,South,Hyderabad,Office Supplies,Binders,8.0,650.94,0.4,-74.5,6
+ORD-10944,2023-01-30,Consumer,East,Bhubaneswar,Office Supplies,Paper,1.0,114.56,0.0,11.71,6
+ORD-10752,2025-04-29,Consumer,North,Jaipur,Office Supplies,Storage,1.0,117.38,0.0,19.14,2
+ORD-10948,2024-11-24,Corporate,West,Pune,Furniture,Bookcases,,1009.97,0.0,131.8,1
+ORD-11092,2025-01-04,Consumer,South,Bengaluru,Office Supplies,Paper,6.0,1250.15,0.15,110.15,1
+ORD-10716,2025-05-04,Corporate,North,Chandigarh,Office Supplies,Art,8.0,877.72,0.15,55.83,6
+ORD-10977,2024-05-27,Home Office,North,Jaipur,Office Supplies,Art,3.0,210.64,,26.4,3
+ORD-10618,2025-02-07,Corporate,South,Bengaluru,Technology,Phones,6.0,1023.08,0.15,82.09,5
+ORD-10626,2024-09-25,Consumer,West,Pune,Furniture,Tables,8.0,1852.27,0.05,167.26,3
+ORD-10394,2024-02-16,Consumer,West,Surat,Furniture,Chairs,7.0,3745.68,0.1,287.41,2
+ORD-11049,2023-12-19,Corporate,West,,Office Supplies,Storage,3.0,254.16,0.1,26.77,4
+ORD-10168,2024-09-10,Consumer,West,Pune,Technology,Machines,3.0,2065.41,0.05,335.14,7
+ORD-10209,2024-04-11,Corporate,North,Delhi,Technology,Machines,6.0,1874.76,0.1,245.56,6
+ORD-10560,2024-09-25,Corporate,South,Kochi,Office Supplies,Paper,3.0,559.76,0.05,67.81,5
+ORD-10135,2025-06-03,Corporate,South,Bengaluru,Furniture,Chairs,4.0,1674.51,0.15,5.9,3
+ORD-10184,2023-11-15,Home Office,North,Lucknow,Office Supplies,Art,1.0,132.83,0.4,-22.46,6
+ORD-10899,2024-09-06,Home Office,South,Kochi,Office Supplies,Art,3.0,228.2,0.05,27.06,4
+ORD-10333,2023-04-27,Home Office,North,Jaipur,Office Supplies,Paper,8.0,1456.85,0.4,-191.63,3
+ORD-10839,2023-11-09,Consumer,East,Bhubaneswar,Office Supplies,Binders,5.0,1038.85,0.3,54.64,4
+ORD-10158,2024-02-24,Consumer,South,Hyderabad,Office Supplies,Storage,4.0,265.04,0.0,44.97,2
+ORD-10140,2023-06-21,Corporate,North,Lucknow,Office Supplies,Art,7.0,1189.58,0.1,162.15,2
+ORD-10736,2023-01-06,Corporate,East,Kolkata,Office Supplies,Binders,5.0,841.59,0.4,-66.69,1
+ORD-10471,2025-06-29,Corporate,West,Surat,Technology,Accessories,7.0,2347.78,0.0,447.23,6
+ORD-10435,2024-12-17,Corporate,South,Bengaluru,Furniture,Bookcases,1.0,302.78,0.05,25.23,3
+ORD-11133,2023-05-12,Consumer,East,Bhubaneswar,Technology,Phones,1.0,253.23,0.2,20.53,4
+ORD-10247,2025-03-22,Home Office,North,Lucknow,Office Supplies,Storage,2.0,276.91,0.2,11.41,2
+ORD-10380,2025-05-29,Corporate,South,Hyderabad,Furniture,Chairs,3.0,1282.18,0.1,58.99,6
+ORD-11152,2024-01-05,Corporate,East,Bhubaneswar,Office Supplies,Art,4.0,634.98,0.3,-22.99,5
+ORD-10665,2023-03-26,Home Office,East,Bhubaneswar,Furniture,Chairs,4.0,987.12,0.2,-33.67,4
+ORD-10344,2025-01-17,Corporate,East,Kolkata,Office Supplies,Storage,5.0,636.47,0.1,71.42,1
+ORD-11140,2023-09-06,Corporate,North,Chandigarh,Office Supplies,Storage,2.0,340.82,0.15,28.48,6
+ORD-10362,2024-09-11,Corporate,North,Delhi,Furniture,Bookcases,1.0,516.13,0.3,-58.13,1
+ORD-10208,2025-02-15,Corporate,West,Surat,Furniture,Bookcases,2.0,444.66,0.4,-58.68,4
+ORD-10980,2024-07-22,Corporate,East,Bhubaneswar,Office Supplies,Binders,1.0,20.54,0.15,0.28,6
+ORD-10788,2025-05-29,Consumer,West,Mumbai,Office Supplies,Storage,3.0,664.12,0.15,55.21,5
+ORD-10163,2024-07-22,Home Office,South,Chennai,Furniture,Bookcases,2.0,1238.33,0.1,1.14,5
+ORD-10479,2023-07-13,Consumer,East,Patna,Office Supplies,Art,2.0,165.9,0.0,27.98,4
+ORD-10961,2023-02-14,Home Office,South,Hyderabad,Furniture,Chairs,1.0,268.53,0.15,9.11,4
+ORD-10156,2025-03-28,Home Office,East,,Furniture,Bookcases,4.0,1265.2,0.3,-129.89,4
+ORD-10327,2025-06-28,Consumer,South,Hyderabad,Office Supplies,Storage,6.0,738.08,0.0,129.18,2
+ORD-10352,2023-04-16,Home Office,South,Chennai,Technology,Accessories,5.0,530.09,0.1,69.31,4
+ORD-10220,2023-02-05,Consumer,North,Chandigarh,Furniture,Bookcases,6.0,2004.38,0.05,168.17,7
+ORD-10196,2024-04-27,Home Office,South,Kochi,Technology,Machines,4.0,2871.53,0.1,268.98,5
+ORD-10965,2024-08-03,Consumer,West,Ahmedabad,Office Supplies,Art,5.0,1000.65,0.1,124.91,4
+ORD-10666,2025-05-20,Consumer,South,Kochi,Office Supplies,Paper,8.0,1473.66,0.2,10.03,3
+ORD-10294,2024-12-03,Consumer,West,Mumbai,Office Supplies,Paper,7.0,1743.07,0.0,260.09,5
+ORD-10198,2023-06-22,Consumer,South,Bengaluru,Technology,Phones,4.0,3059.59,0.05,411.07,7
+ORD-11003,2024-08-14,Consumer,East,Kolkata,Office Supplies,Paper,5.0,255.87,0.0,37.87,1
+ORD-10939,2025-05-10,Consumer,South,Kochi,Office Supplies,Storage,2.0,66.39,0.2,-0.3,6
+ORD-11084,2024-06-13,Consumer,West,Surat,Technology,Accessories,7.0,1541.57,0.05,218.44,6
+ORD-11019,2024-06-20,Home Office,North,Jaipur,Technology,Accessories,1.0,823.61,0.05,146.77,6
+ORD-10529,2023-05-18,Home Office,North,Jaipur,Office Supplies,Art,7.0,424.74,0.05,45.3,2
+ORD-10290,2025-04-18,Consumer,East,Patna,Office Supplies,Storage,7.0,225.67,0.0,39.55,1
+ORD-10485,2024-04-06,Consumer,North,Jaipur,Furniture,Tables,4.0,1418.74,0.4,-240.33,5
+ORD-10987,2024-01-27,Corporate,East,Patna,Office Supplies,Paper,5.0,1178.61,0.15,55.44,4
+ORD-10578,2023-12-31,Home Office,East,Bhubaneswar,Technology,Accessories,4.0,2977.51,0.0,623.74,3
+ORD-10873,2024-12-01,Corporate,South,Kochi,Technology,Phones,3.0,754.16,0.3,-55.24,1
+ORD-10526,2024-04-29,Home Office,West,Pune,Technology,Accessories,5.0,1321.91,0.0,261.4,4
+ORD-10096,2023-10-05,Corporate,East,Kolkata,Technology,Phones,8.0,3751.1,0.3,-86.1,1
+ORD-10464,2023-01-03,Corporate,West,Ahmedabad,Technology,Accessories,3.0,1408.68,0.0,388.22,2
+ORD-10845,2024-11-17,Home Office,North,Chandigarh,Office Supplies,Binders,,1200.71,0.1,106.98,7
+ORD-10178,2024-12-26,Corporate,South,,Technology,Accessories,3.0,2776.38,0.3,-223.79,5
+ORD-10031,2025-01-30,Corporate,West,Surat,Office Supplies,Storage,6.0,1052.19,0.15,114.09,3
+ORD-10442,2023-07-04,Consumer,East,Kolkata,Furniture,Chairs,6.0,2914.28,0.1,153.88,1
+ORD-11185,2025-04-13,Corporate,North,Delhi,Office Supplies,Paper,5.0,158.03,0.05,25.9,2
+ORD-10513,2024-04-22,Consumer,West,Ahmedabad,Technology,Phones,6.0,2780.11,0.05,523.32,5
+ORD-10760,2024-06-02,Consumer,West,Surat,Office Supplies,Paper,8.0,675.47,0.3,-50.63,1
+ORD-10244,2023-08-28,Home Office,North,Jaipur,Technology,Accessories,3.0,2432.89,0.0,365.9,2
+ORD-10332,2025-05-29,Consumer,South,Bengaluru,Office Supplies,Paper,1.0,47.07,0.15,3.98,4
+ORD-10631,2024-02-11,Home Office,West,Ahmedabad,Office Supplies,Art,6.0,77.42,0.0,12.19,6
+ORD-10323,2023-08-06,Consumer,West,Mumbai,Office Supplies,Binders,7.0,1515.75,0.15,89.75,1
+ORD-10088,2024-04-19,Corporate,West,Mumbai,Office Supplies,Binders,3.0,284.31,0.3,-1.79,3
+ORD-11026,2024-09-24,Corporate,West,Surat,Office Supplies,Paper,4.0,117.06,0.2,1.25,2
+ORD-10381,2024-03-06,Corporate,West,Pune,Office Supplies,Art,6.0,293.91,0.4,-26.92,1
+ORD-10365,2023-09-16,Corporate,East,Bhubaneswar,Furniture,Tables,5.0,1848.48,0.3,-196.36,5
+ORD-10490,2025-01-09,Home Office,South,Bengaluru,Furniture,Tables,6.0,1854.4,0.05,140.93,6
+ORD-11118,2024-03-30,Consumer,East,Guwahati,Furniture,Tables,8.0,4331.52,0.05,318.96,4
+ORD-10941,2023-05-19,Consumer,East,Guwahati,Technology,Accessories,5.0,1347.07,0.2,117.2,4
+ORD-10413,2024-01-04,Corporate,East,Guwahati,Office Supplies,Binders,5.0,93.15,0.05,12.88,1
+ORD-10634,2024-02-18,Home Office,East,Bhubaneswar,Furniture,Chairs,4.0,275.64,0.4,-40.97,5
+ORD-10589,2025-06-04,Corporate,North,Chandigarh,Office Supplies,Art,3.0,518.27,0.05,82.19,1
+ORD-10743,2025-05-05,Corporate,North,Jaipur,Office Supplies,Paper,,261.61,0.3,-22.51,6
+ORD-10462,2024-12-10,Home Office,South,Hyderabad,Technology,Machines,7.0,5520.87,0.0,1255.47,4
+ORD-10548,2024-05-26,Consumer,North,Delhi,Technology,Phones,3.0,425.43,0.1,56.97,3
+ORD-10363,2024-03-05,Home Office,North,Lucknow,Office Supplies,Storage,7.0,1843.66,0.0,400.0,1
+ORD-10724,2024-07-02,Consumer,West,Pune,Technology,Machines,7.0,5746.66,0.15,324.73,5
+ORD-10534,2024-01-15,Corporate,North,Lucknow,Office Supplies,Paper,8.0,1761.57,0.1,104.47,1
+ORD-10010,2023-03-21,Home Office,East,Guwahati,Furniture,Tables,8.0,1234.43,0.3,-133.84,2
+ORD-10986,2025-01-15,Consumer,East,Kolkata,Office Supplies,Storage,3.0,173.0,0.15,7.38,2
+ORD-10420,2024-10-15,Consumer,East,,Technology,Accessories,6.0,2473.15,0.05,330.71,6
+ORD-10243,2025-02-07,Consumer,South,Kochi,Technology,Machines,3.0,854.7,0.2,50.35,1
+ORD-10059,2023-10-29,Corporate,East,Patna,Office Supplies,Art,7.0,160.91,0.15,14.77,6
+ORD-11073,2024-11-10,Home Office,East,Bhubaneswar,Technology,Phones,1.0,712.05,0.2,65.0,6
+ORD-10063,2024-08-15,Corporate,West,Surat,Office Supplies,Paper,8.0,1755.47,,246.79,5
+ORD-10432,2024-12-01,Home Office,West,Surat,Furniture,Bookcases,3.0,712.96,,-55.1,4
+ORD-10277,2023-09-19,Home Office,South,Chennai,Furniture,Tables,2.0,1067.19,0.2,-23.8,3
+ORD-10721,2024-01-18,Corporate,North,Chandigarh,Office Supplies,Storage,5.0,884.66,0.1,75.71,1
+ORD-11062,2025-02-23,Corporate,South,Chennai,Furniture,Chairs,4.0,261.78,0.4,-48.66,1
+ORD-10678,2023-07-25,Corporate,West,Mumbai,Office Supplies,Storage,8.0,1595.29,0.05,257.08,7
+ORD-10599,2025-05-28,Home Office,South,Hyderabad,Office Supplies,Paper,7.0,172.62,0.2,4.16,1
+ORD-10306,2024-09-06,Consumer,West,Ahmedabad,Furniture,Chairs,2.0,631.13,0.05,54.59,6
+ORD-10289,2024-04-08,Home Office,North,Jaipur,Technology,Phones,6.0,4021.42,0.3,17.2,5
+ORD-10812,2025-01-20,Corporate,North,Jaipur,Technology,Accessories,1.0,434.27,,73.15,6
+ORD-10596,2023-12-04,Home Office,West,Mumbai,Office Supplies,Storage,4.0,839.63,0.0,157.82,6
+ORD-10367,2025-06-03,Corporate,East,Bhubaneswar,Technology,Accessories,7.0,5038.24,0.1,625.99,1
+ORD-10270,2024-05-23,Home Office,North,Chandigarh,Technology,Machines,6.0,4584.24,0.15,412.23,7
+ORD-10661,2023-11-05,Home Office,North,Chandigarh,Office Supplies,Paper,,1076.09,0.4,-63.22,1
+ORD-10713,2023-04-15,Corporate,South,Kochi,Furniture,Chairs,6.0,2696.7,0.15,-19.48,2
+ORD-10308,2024-05-28,Home Office,East,Kolkata,Technology,Accessories,8.0,6746.9,0.1,777.89,5
+ORD-10292,2023-04-17,Consumer,North,Jaipur,Technology,Phones,4.0,686.14,0.1,103.49,5
+ORD-11134,2025-05-07,Corporate,West,Ahmedabad,Furniture,Chairs,3.0,1626.44,0.05,161.41,4
+ORD-10998,2024-08-03,Home Office,South,Bengaluru,Office Supplies,Binders,6.0,883.6,0.15,42.25,4
+ORD-10083,2023-10-02,Home Office,South,Kochi,Technology,Machines,1.0,311.57,0.0,75.41,3
+ORD-10129,2023-04-06,Corporate,North,Jaipur,Technology,Accessories,5.0,1266.2,0.05,180.37,2
+ORD-11137,2023-05-07,Consumer,South,Bengaluru,Office Supplies,Storage,6.0,845.29,0.1,82.34,5
+ORD-10765,2024-12-27,Consumer,West,Ahmedabad,Office Supplies,Art,1.0,133.95,0.1,10.31,5
+ORD-10926,2024-12-23,Home Office,South,Hyderabad,Office Supplies,Paper,5.0,1097.58,0.1,115.99,7
+ORD-10676,2025-04-10,Corporate,North,Lucknow,Furniture,Tables,6.0,3913.59,0.05,244.29,1
+ORD-10260,2023-05-11,Home Office,South,Bengaluru,Technology,Accessories,7.0,1604.61,0.4,-24.51,2
+ORD-10549,2024-10-25,Consumer,North,Lucknow,Technology,Machines,7.0,5650.55,0.1,716.29,1
+ORD-10561,2024-01-14,Home Office,East,Patna,Technology,Accessories,1.0,723.43,0.15,94.01,5
+ORD-10904,2023-08-26,Corporate,West,Mumbai,Office Supplies,Binders,6.0,263.36,0.2,-3.43,7
+ORD-10718,2024-10-02,Consumer,South,Chennai,Office Supplies,Art,6.0,1585.83,0.1,154.65,5
+ORD-10138,2023-01-25,Corporate,West,Surat,Furniture,Bookcases,1.0,592.42,0.1,34.29,7
+ORD-11068,2023-10-17,Corporate,North,Jaipur,Furniture,Chairs,8.0,4555.39,0.05,230.77,4
+ORD-10141,2023-07-21,Home Office,East,,Office Supplies,Storage,5.0,538.13,0.1,75.54,2
+ORD-10807,2024-04-10,Corporate,North,Chandigarh,Office Supplies,Storage,4.0,660.36,0.1,71.64,2
+ORD-11037,2025-05-09,Consumer,East,Patna,Technology,Machines,2.0,820.15,0.3,69.21,1
+ORD-10704,2024-04-29,Consumer,West,Ahmedabad,Technology,Accessories,4.0,2070.39,0.0,391.64,1
+ORD-10139,2023-07-15,Corporate,South,Bengaluru,Office Supplies,Art,3.0,406.76,0.0,47.5,7
+ORD-10968,2025-06-14,Consumer,North,Lucknow,Office Supplies,Binders,8.0,2155.55,0.0,275.67,1
+ORD-11099,2023-12-02,Corporate,East,Kolkata,Technology,Accessories,7.0,2514.49,0.1,284.88,6
+ORD-10224,2024-04-04,Corporate,East,Guwahati,Office Supplies,Art,1.0,129.98,0.2,4.49,2
+ORD-11078,2024-03-07,Home Office,West,Ahmedabad,Furniture,Chairs,1.0,268.02,0.05,11.55,3
+ORD-10274,2023-11-17,Consumer,West,Pune,Office Supplies,Binders,1.0,244.13,0.1,20.65,3
+ORD-10377,2024-06-01,Home Office,West,Ahmedabad,Technology,Accessories,7.0,2667.4,0.0,605.21,7
+ORD-10405,2025-03-20,Home Office,East,Kolkata,Technology,Accessories,7.0,3261.5,0.0,686.58,3
+ORD-11131,2023-03-11,Corporate,South,Kochi,Office Supplies,Binders,7.0,118.59,0.1,10.42,7
+ORD-10382,2025-01-03,Corporate,East,Kolkata,Technology,Machines,3.0,1450.37,0.0,260.11,5
+ORD-10588,2025-04-10,Consumer,South,Hyderabad,Office Supplies,Binders,4.0,575.74,0.0,85.19,5
+ORD-11081,2025-01-13,Consumer,West,Mumbai,Furniture,Bookcases,1.0,520.99,0.1,-1.87,5
+ORD-10701,2024-05-10,Consumer,South,Chennai,Office Supplies,Storage,1.0,125.53,0.3,-9.12,3
+ORD-10825,2025-03-29,Corporate,West,Mumbai,Technology,Phones,2.0,1651.65,0.15,216.09,6
+ORD-10673,2023-04-19,Home Office,North,Jaipur,Office Supplies,Storage,4.0,958.68,0.0,135.17,5
+ORD-11110,2024-06-02,Corporate,West,Surat,Office Supplies,Paper,4.0,521.64,0.1,55.19,3
+ORD-10309,2024-05-06,Home Office,North,Delhi,Office Supplies,Art,2.0,370.27,0.05,59.79,7
+ORD-10482,2023-08-03,Home Office,North,Lucknow,Office Supplies,Storage,7.0,966.88,0.05,181.06,2
+ORD-10610,2024-09-11,Corporate,West,Pune,Technology,Accessories,6.0,4033.77,0.2,293.23,3
+ORD-10321,2025-01-01,Corporate,West,Mumbai,Office Supplies,Art,4.0,566.54,0.05,100.1,2
+ORD-10781,2024-11-03,Corporate,South,Kochi,Technology,Accessories,8.0,7026.8,,783.85,5
+ORD-10865,2023-09-18,Corporate,North,Delhi,Office Supplies,Paper,5.0,819.61,0.0,79.97,7
+ORD-10410,2023-12-08,Consumer,West,Ahmedabad,Furniture,Bookcases,1.0,533.63,0.3,-22.22,1
+ORD-10039,2023-11-26,Home Office,North,Jaipur,Technology,Phones,8.0,3389.69,0.2,153.23,4
+ORD-10030,2025-01-30,Consumer,West,Surat,Technology,Accessories,1.0,138.24,0.0,29.22,3
+ORD-10242,2023-10-24,Home Office,North,Delhi,Furniture,Tables,1.0,385.76,0.15,-23.46,3
+ORD-10461,2024-05-13,Corporate,North,Jaipur,Office Supplies,Binders,5.0,313.96,0.15,7.52,2
+ORD-10136,2024-10-21,Corporate,East,Guwahati,Technology,Phones,5.0,1824.42,0.15,153.76,7
+ORD-11006,2024-09-14,Corporate,North,Chandigarh,Technology,Accessories,,311.09,0.2,38.54,7
+ORD-10433,2024-04-15,Home Office,West,Ahmedabad,Office Supplies,Paper,4.0,892.76,0.15,49.66,6
+ORD-10003,2024-02-27,Consumer,North,Jaipur,Office Supplies,Art,6.0,1377.28,0.1,185.16,4
+ORD-11181,2024-06-08,Corporate,East,Kolkata,Office Supplies,Art,7.0,781.08,0.1,95.32,6
+ORD-10622,2025-01-17,Home Office,South,Chennai,Technology,Accessories,5.0,4175.54,0.0,731.42,5
+ORD-11050,2023-12-07,Home Office,North,Lucknow,Technology,Phones,2.0,1011.51,0.2,82.87,3
+ORD-11132,2024-03-18,Corporate,North,Chandigarh,Office Supplies,Paper,2.0,252.09,0.05,43.19,6
+ORD-10844,2023-03-18,Corporate,West,Surat,Furniture,Tables,8.0,4294.65,0.1,241.17,6
+ORD-11042,2024-06-26,Consumer,South,Kochi,Furniture,Chairs,5.0,378.2,0.4,-67.05,4
+ORD-10486,2023-06-27,Home Office,South,Hyderabad,Furniture,Bookcases,4.0,855.89,0.1,47.98,7
+ORD-10314,2024-07-10,Consumer,West,Pune,Technology,Accessories,2.0,1597.71,0.05,277.11,6
+ORD-10876,2024-09-04,Consumer,South,Bengaluru,Furniture,Chairs,3.0,946.98,0.15,8.32,1
+ORD-10668,2023-11-24,Consumer,South,Bengaluru,Office Supplies,Binders,8.0,830.15,0.15,47.59,3
+ORD-10708,2023-03-31,Corporate,West,Pune,Technology,Phones,3.0,1756.31,0.1,230.74,1
+ORD-10005,2023-09-10,Home Office,South,Hyderabad,Office Supplies,Storage,2.0,98.82,0.2,-0.95,4
+ORD-10100,2024-12-09,Corporate,North,Delhi,Office Supplies,Art,1.0,133.86,0.15,8.63,3
+ORD-10753,2024-06-19,Consumer,East,Bhubaneswar,Office Supplies,Binders,6.0,490.67,0.0,72.49,2
+ORD-10692,2025-01-02,Consumer,East,Bhubaneswar,Furniture,Bookcases,3.0,2004.04,0.05,139.36,4
+ORD-10722,2023-04-10,Home Office,West,Surat,Office Supplies,Paper,8.0,209.92,0.1,14.3,7
+ORD-10832,2025-02-10,Home Office,West,Pune,Furniture,Bookcases,1.0,166.62,0.1,14.81,1
+ORD-10451,2025-01-17,Corporate,North,Lucknow,Office Supplies,Storage,7.0,734.62,0.15,36.94,5
+ORD-10771,2023-03-16,Consumer,West,Ahmedabad,Technology,Accessories,3.0,1485.6,0.1,211.56,2
+ORD-10331,2025-02-16,Consumer,North,Chandigarh,Technology,Phones,5.0,1641.93,0.0,337.8,7
+ORD-10227,2024-11-21,Consumer,South,Hyderabad,Technology,Machines,4.0,1909.47,0.05,341.68,4
+ORD-10358,2024-04-06,Corporate,South,Chennai,Technology,Accessories,8.0,1363.34,0.0,264.26,5
+ORD-10542,2024-01-14,Corporate,South,Hyderabad,Technology,Machines,7.0,4584.49,0.1,677.33,6
+ORD-11043,2023-01-10,Consumer,East,Patna,Technology,Machines,6.0,2676.83,,97.88,6
+ORD-10597,2023-05-31,Home Office,North,Delhi,Technology,Machines,7.0,5758.08,0.0,958.25,3
+ORD-10066,2023-12-06,Consumer,South,Kochi,Technology,Machines,1.0,105.87,0.15,10.68,6
+ORD-10067,2023-08-28,Home Office,East,Patna,Office Supplies,Paper,1.0,68.71,0.3,2.83,1
+ORD-10629,2023-02-27,Home Office,North,Lucknow,Office Supplies,Storage,8.0,1862.62,0.1,250.81,6
+ORD-10211,2023-09-03,Consumer,North,Lucknow,Office Supplies,Binders,1.0,70.27,0.1,7.2,1
+ORD-10012,2024-11-22,Corporate,East,Kolkata,Office Supplies,Binders,1.0,178.95,0.15,11.0,6
+ORD-10523,2023-07-04,Home Office,West,Pune,Technology,Accessories,3.0,598.4,0.1,64.14,1
+ORD-10667,2023-05-05,Corporate,South,Kochi,Technology,Machines,4.0,1581.91,0.15,131.92,4
+ORD-10299,2023-10-12,Home Office,North,Lucknow,Office Supplies,Art,2.0,54.9,0.1,5.24,3
+ORD-10834,2024-04-13,Corporate,East,Guwahati,Office Supplies,Paper,2.0,283.78,0.4,-17.9,7
+ORD-11120,2024-07-22,Home Office,North,Chandigarh,Technology,Machines,8.0,2211.99,0.0,380.81,7
+ORD-11091,2024-06-24,Corporate,East,Kolkata,Technology,Machines,2.0,1447.0,0.15,150.2,1
+ORD-10735,2023-08-20,Consumer,East,Patna,Office Supplies,Storage,5.0,764.38,,78.37,4
+ORD-10532,2023-09-09,Corporate,West,Surat,Furniture,Tables,4.0,1433.84,0.1,78.8,5
+ORD-11182,2024-03-08,Home Office,South,Hyderabad,Technology,Phones,6.0,669.33,0.1,86.78,5
+ORD-10598,2025-02-17,Corporate,North,Jaipur,Office Supplies,Binders,6.0,150.69,0.0,25.15,1
+ORD-10545,2024-11-13,Home Office,East,Kolkata,Office Supplies,Storage,1.0,191.61,0.4,-9.56,4
+ORD-10478,2023-01-02,Corporate,North,Delhi,Office Supplies,Binders,2.0,318.57,0.2,-4.84,3
+ORD-11136,2024-10-24,Corporate,East,Bhubaneswar,Office Supplies,Binders,1.0,70.4,0.4,-0.02,6
+ORD-11000,2025-04-15,Consumer,South,Hyderabad,Technology,Phones,7.0,3577.41,0.15,338.88,1
+ORD-10528,2023-01-07,Corporate,East,Guwahati,Technology,Accessories,1.0,672.43,0.15,84.4,6
+ORD-10273,2023-04-03,Consumer,South,Chennai,Office Supplies,Storage,8.0,913.18,0.1,75.51,5
+ORD-10390,2025-02-16,Consumer,West,Ahmedabad,Office Supplies,Art,8.0,1794.07,0.2,-19.9,4
+ORD-10237,2023-01-18,Consumer,East,Bhubaneswar,Office Supplies,Art,7.0,165.06,0.2,5.51,4
+ORD-10438,2024-10-06,Corporate,East,Guwahati,Office Supplies,Paper,2.0,467.31,0.2,29.56,7
+ORD-10002,2023-11-20,Corporate,South,Bengaluru,Office Supplies,Storage,6.0,1629.73,0.2,126.69,4
+ORD-10006,2023-04-15,Corporate,East,Patna,Technology,Accessories,2.0,1245.29,,112.91,1
+ORD-10311,2023-11-05,Consumer,North,Chandigarh,Office Supplies,Binders,7.0,1495.73,0.15,97.97,2
+ORD-11045,2023-06-25,Home Office,East,Kolkata,Furniture,Bookcases,1.0,762.05,0.1,26.18,1
+ORD-10818,2024-04-01,Home Office,West,Surat,Office Supplies,Binders,1.0,51.07,,5.34,1
+ORD-10990,2024-12-13,Home Office,South,Bengaluru,Office Supplies,Binders,8.0,339.02,0.2,-7.46,6
+ORD-10630,2024-06-03,Corporate,East,Guwahati,Technology,Accessories,5.0,904.2,0.1,146.39,1
+ORD-10215,2024-04-12,Consumer,South,Bengaluru,Furniture,Tables,2.0,630.97,0.0,94.47,4
+ORD-10767,2023-04-23,Corporate,East,Patna,Furniture,Chairs,1.0,500.54,0.1,24.5,5
+ORD-10027,2024-06-10,Consumer,East,Bhubaneswar,Technology,Phones,7.0,2091.18,0.4,-33.23,1
+ORD-11174,2025-04-19,Corporate,West,Mumbai,Office Supplies,Paper,2.0,2261.52,0.0,60.6,3
+ORD-10966,2023-08-12,Consumer,North,Lucknow,Furniture,Chairs,3.0,743.51,0.0,102.91,1
+ORD-10552,2023-06-26,Consumer,South,Bengaluru,Furniture,Tables,5.0,2443.36,0.0,117.92,6
+ORD-10803,2024-03-10,Consumer,North,Delhi,Furniture,Bookcases,3.0,1670.74,0.05,128.53,6
+ORD-10885,2024-02-12,Corporate,East,Guwahati,Office Supplies,Storage,2.0,496.15,,83.14,6
+ORD-10772,2024-03-21,Corporate,East,Bhubaneswar,Furniture,Bookcases,1.0,325.1,0.0,41.76,6
+ORD-10755,2023-08-21,Home Office,East,Guwahati,Technology,Machines,5.0,2634.99,0.4,5.78,5
+ORD-10553,2024-01-11,Corporate,South,Kochi,Office Supplies,Binders,8.0,1161.42,0.3,-27.12,6
+ORD-10354,2025-03-25,Corporate,South,Bengaluru,Furniture,Chairs,1.0,92.1,0.0,10.04,5
+ORD-11066,2023-02-10,Corporate,North,Lucknow,Office Supplies,Paper,3.0,262.64,0.1,31.45,7
+ORD-10430,2023-10-22,Corporate,South,Hyderabad,Technology,Phones,2.0,1170.63,0.2,34.69,4
+ORD-10256,2024-02-03,Corporate,North,Lucknow,Office Supplies,Storage,4.0,880.22,0.0,156.43,6
+ORD-10291,2024-08-21,Corporate,West,Ahmedabad,Office Supplies,Paper,2.0,450.69,0.0,63.77,4
+ORD-10025,2023-04-19,Corporate,West,Surat,Office Supplies,Paper,2.0,283.51,,-14.35,3
+ORD-10336,2025-04-29,Home Office,East,Bhubaneswar,Technology,Phones,,3968.87,0.3,15.02,1
+ORD-11159,2023-09-28,Consumer,East,Kolkata,Office Supplies,Paper,8.0,1061.17,0.15,11.56,6
+ORD-10047,2024-05-10,Home Office,North,Lucknow,Office Supplies,Paper,6.0,271.42,0.0,41.7,5
+ORD-10318,2025-02-23,Corporate,South,Bengaluru,Technology,Phones,7.0,3870.81,0.2,408.57,2
+ORD-10106,2025-05-16,Home Office,East,Bhubaneswar,Furniture,Tables,5.0,1261.44,0.15,22.12,3
+ORD-10872,2024-11-17,Home Office,West,Surat,Furniture,Chairs,7.0,1010.0,0.15,9.74,3
+ORD-10055,2023-11-01,Consumer,West,Ahmedabad,Office Supplies,Paper,7.0,625.77,0.2,32.2,2
+ORD-11089,2024-11-05,Corporate,South,Chennai,Office Supplies,Storage,2.0,25.96,0.05,3.74,2
+ORD-10213,2023-03-30,Home Office,South,Kochi,Furniture,Chairs,5.0,371.54,0.1,8.97,7
+ORD-10120,2024-11-13,Home Office,West,Mumbai,Furniture,Tables,2.0,1142.77,0.3,-34.62,3
+ORD-10582,2025-06-05,Consumer,North,,Technology,Accessories,1.0,620.01,0.1,70.2,5
+ORD-10506,2023-09-08,Home Office,West,Pune,Office Supplies,Storage,4.0,719.83,,63.88,6
+ORD-10538,2023-02-08,Home Office,South,Bengaluru,Furniture,Tables,5.0,1559.84,0.3,-194.42,5
+ORD-10072,2023-09-17,Home Office,West,Ahmedabad,Furniture,Bookcases,8.0,4669.5,0.1,119.4,2
+ORD-10999,2025-01-22,Home Office,East,Bhubaneswar,Technology,Phones,5.0,2024.7,0.2,223.31,3
+ORD-11120,2024-07-22,Home Office,North,Chandigarh,Technology,Machines,8.0,2211.99,0.0,380.81,7
+ORD-10874,2025-05-06,Home Office,North,Lucknow,Technology,Accessories,7.0,5061.51,0.2,435.6,3
+ORD-10447,2024-02-01,Consumer,West,Ahmedabad,Technology,Machines,1.0,524.59,0.05,80.09,6
+ORD-10922,2023-08-05,Consumer,North,Delhi,Office Supplies,Art,1.0,137.29,0.4,-1.29,2
+ORD-10808,2023-10-17,Home Office,South,Hyderabad,Office Supplies,Binders,3.0,554.59,0.15,53.71,7
+ORD-10830,2023-06-21,Consumer,South,Bengaluru,Office Supplies,Storage,3.0,522.46,0.15,25.13,30
+ORD-10581,2023-01-14,Corporate,West,Pune,Office Supplies,Paper,3.0,448.52,0.0,81.92,5
+ORD-10974,2024-07-20,Home Office,East,Guwahati,Office Supplies,Art,1.0,133.16,0.3,6.98,4
+ORD-10519,2024-06-13,Consumer,East,Bhubaneswar,Office Supplies,Art,5.0,1039.67,0.2,62.01,6
+ORD-10325,2025-05-05,Home Office,West,Mumbai,Office Supplies,Paper,8.0,841.56,0.0,143.34,2
+ORD-10615,2024-06-12,Consumer,East,Bhubaneswar,Furniture,Bookcases,3.0,1147.16,0.15,-5.91,6
+ORD-10958,2025-05-25,Corporate,West,Ahmedabad,Office Supplies,Art,2.0,418.74,0.3,-35.17,3
+ORD-10316,2023-03-14,Corporate,East,Bhubaneswar,Technology,Accessories,3.0,1957.41,0.3,26.53,7
+ORD-10801,2024-10-08,Consumer,West,Ahmedabad,Technology,Accessories,7.0,3691.84,0.3,88.98,4
+ORD-10855,2023-05-07,Home Office,South,Kochi,Technology,Accessories,3.0,1105.21,0.15,138.26,1
+ORD-10554,2023-06-12,Home Office,West,Mumbai,Office Supplies,Storage,6.0,1266.03,0.05,160.08,6
+ORD-10706,2023-02-01,Home Office,South,Kochi,Furniture,Tables,3.0,761.78,0.15,-5.44,2
+ORD-11040,2024-04-02,Home Office,South,Kochi,Office Supplies,Binders,8.0,1307.37,0.15,96.0,3
+ORD-10959,2023-04-10,Corporate,South,Kochi,Office Supplies,Binders,1.0,181.73,0.15,13.04,5
+ORD-10847,2025-06-06,Consumer,West,Pune,Technology,Phones,2.0,743.19,0.4,-25.96,4
+ORD-10060,2025-04-09,Corporate,East,Kolkata,Furniture,Bookcases,4.0,1926.2,0.1,81.29,1
+ORD-10917,2024-11-17,Corporate,South,Bengaluru,Technology,Phones,5.0,1939.94,0.2,202.21,6
+ORD-10092,2024-01-09,Corporate,South,Chennai,Office Supplies,Storage,4.0,698.38,0.1,82.34,6
+ORD-10886,2024-12-29,Corporate,East,Bhubaneswar,Furniture,Bookcases,4.0,2380.43,0.2,-46.65,7
+ORD-10424,2023-12-12,Home Office,East,Bhubaneswar,Office Supplies,Paper,5.0,1017.96,0.2,51.92,4
+ORD-10351,2023-05-06,Corporate,East,Guwahati,Furniture,Bookcases,7.0,992.11,0.15,-8.21,6
+ORD-10964,2024-12-06,Consumer,North,Chandigarh,Furniture,Tables,5.0,406.7,0.0,35.27,1
+ORD-10280,2025-03-27,Consumer,North,Lucknow,Office Supplies,Paper,4.0,109.72,0.1,9.37,4
+ORD-10453,2024-11-19,Corporate,West,Ahmedabad,Technology,Machines,7.0,598.31,0.4,-37.74,6
+ORD-10429,2024-11-11,Home Office,South,Hyderabad,Furniture,Bookcases,8.0,3354.88,0.0,487.44,6
+ORD-10359,2023-04-11,Corporate,North,Lucknow,Office Supplies,Binders,7.0,183.74,0.3,-2.18,2
+ORD-11048,2023-04-25,Home Office,South,Kochi,Technology,Machines,7.0,1855.01,0.4,-110.6,5
+ORD-10566,2024-02-27,Consumer,South,Bengaluru,Office Supplies,Paper,1.0,111.07,0.05,13.94,4
+ORD-10859,2025-06-03,Corporate,East,Patna,Furniture,Bookcases,3.0,1634.9,0.0,169.87,3
+ORD-10738,2023-07-28,Home Office,West,Ahmedabad,Technology,Machines,5.0,1118.42,0.0,187.48,2
+ORD-10761,2024-07-11,Consumer,North,Lucknow,Office Supplies,Art,5.0,694.67,0.3,-16.37,4
+ORD-11195,2023-11-19,Corporate,North,Lucknow,Office Supplies,Binders,3.0,430.54,0.15,43.83,3
+ORD-10182,2024-11-11,Home Office,East,Kolkata,Office Supplies,Paper,2.0,407.2,0.15,46.87,3
+ORD-10848,2023-01-09,Consumer,West,Mumbai,Furniture,Bookcases,7.0,1722.76,0.4,-221.02,5
+ORD-10465,2023-04-02,Corporate,South,Hyderabad,Technology,Accessories,2.0,471.09,0.05,81.81,5
+ORD-10110,2023-04-28,Home Office,West,Mumbai,Office Supplies,Binders,2.0,135.59,0.05,19.24,7
+ORD-10370,2024-04-06,Corporate,West,Mumbai,Furniture,Chairs,7.0,2080.07,0.0,300.5,7
+ORD-10239,2025-03-29,Corporate,West,Ahmedabad,Technology,Phones,5.0,1425.8,0.15,114.56,5
+ORD-10730,2024-03-11,Corporate,West,Mumbai,Office Supplies,Storage,1.0,80.36,0.1,4.2,6
+ORD-10650,2023-06-27,Home Office,North,Lucknow,Technology,Machines,8.0,3304.46,0.1,374.88,7
+ORD-10613,2024-10-04,Home Office,South,Kochi,Technology,Phones,4.0,1314.57,0.15,143.2,2
+ORD-10204,2025-01-21,Corporate,North,Chandigarh,Technology,Accessories,2.0,1527.77,0.4,49.84,4
+ORD-11183,2023-12-29,Consumer,West,Pune,Furniture,Chairs,3.0,266.41,0.15,0.02,3
+ORD-10261,2023-06-20,Corporate,South,Bengaluru,Office Supplies,Art,4.0,852.58,0.0,123.98,1
+ORD-10514,2024-04-06,Home Office,North,Chandigarh,Technology,Accessories,8.0,7038.03,0.1,1064.78,1
+ORD-10670,2023-06-08,Corporate,South,Bengaluru,Office Supplies,Storage,5.0,1028.68,0.0,157.83,4
+ORD-10339,2023-12-01,Consumer,West,Ahmedabad,Office Supplies,Paper,2.0,329.45,0.1,37.53,2
+ORD-10741,2023-04-25,Home Office,North,Chandigarh,Office Supplies,Paper,4.0,173.91,0.05,25.28,6
+ORD-10570,2024-02-08,Corporate,North,Delhi,Furniture,Tables,1.0,470.59,0.2,-0.9,1
+ORD-10711,2024-04-02,Home Office,East,Bhubaneswar,Furniture,Bookcases,8.0,3016.3,0.1,-28.4,3
+ORD-10183,2023-02-25,Corporate,North,Lucknow,Office Supplies,Paper,6.0,1046.59,0.15,65.51,2
+ORD-10137,2025-06-11,Consumer,West,Ahmedabad,Office Supplies,Binders,6.0,153.85,0.1,11.15,1
+ORD-11177,2024-10-25,Consumer,North,Lucknow,Technology,Phones,5.0,3331.56,0.0,646.63,1
+ORD-10728,2025-04-05,Corporate,East,Patna,Office Supplies,Storage,1.0,126.4,0.05,12.43,3
+ORD-10858,2024-09-21,Consumer,North,,Office Supplies,Paper,6.0,923.74,0.0,157.21,6
+ORD-10080,2023-06-21,Consumer,North,Jaipur,Technology,Machines,8.0,746.49,0.15,110.25,5
+ORD-10643,2023-10-31,Corporate,South,Chennai,Technology,Phones,3.0,717.63,0.15,100.26,6
+ORD-10816,2023-03-22,Corporate,South,Bengaluru,Technology,Phones,7.0,6360.89,0.1,1249.22,4
+ORD-11080,2023-06-18,Consumer,East,Guwahati,Technology,Machines,3.0,2715.81,0.1,475.43,4
+ORD-10029,2023-09-15,Consumer,West,Mumbai,Office Supplies,Storage,1.0,49.33,0.05,7.19,3
+ORD-10572,2023-01-06,Consumer,East,,Furniture,Tables,1.0,459.41,0.0,61.55,1
+ORD-10165,2024-09-01,Home Office,East,Kolkata,Furniture,Tables,7.0,832.02,0.2,-50.82,7
+ORD-10248,2024-03-11,Consumer,East,Bhubaneswar,Technology,Machines,3.0,2540.35,0.2,251.64,3
+ORD-10307,2024-03-09,Corporate,West,Pune,Technology,Machines,2.0,1098.53,0.15,78.96,5
+ORD-10811,2024-12-15,Corporate,North,Chandigarh,Furniture,Bookcases,7.0,1931.36,0.05,146.02,4
+ORD-10481,2023-03-07,Corporate,South,Chennai,Technology,Machines,6.0,4828.4,0.4,-396.56,7
+ORD-10346,2024-03-20,Consumer,East,Guwahati,Furniture,Tables,2.0,1461.19,0.1,90.9,4
+ORD-10334,2025-05-04,Home Office,East,Patna,Furniture,Chairs,5.0,1120.6,0.0,168.52,2
+ORD-10285,2024-01-21,Corporate,North,Jaipur,Technology,Machines,2.0,1442.35,0.15,115.03,4
+ORD-10982,2023-01-21,Consumer,South,Chennai,Office Supplies,Art,6.0,1180.91,0.1,128.65,6
+ORD-10097,2023-04-12,Home Office,South,Bengaluru,Technology,Phones,7.0,4189.52,0.05,753.35,6
+ORD-11106,2023-11-11,Consumer,North,Jaipur,Technology,Machines,7.0,4194.98,0.1,507.03,3
+ORD-11053,2025-03-14,Home Office,North,Chandigarh,Technology,Phones,8.0,1895.96,0.15,185.08,1
+ORD-10943,2024-03-30,Corporate,North,Chandigarh,Office Supplies,Storage,6.0,969.52,0.15,25.95,6
+ORD-10621,2023-05-07,Home Office,South,Kochi,Office Supplies,Storage,7.0,1527.87,0.05,208.99,3
+ORD-11158,2023-01-19,Corporate,East,Guwahati,Office Supplies,Binders,5.0,1039.69,0.4,-68.98,6
+ORD-10887,2025-06-01,Consumer,West,Pune,Technology,Phones,4.0,2252.46,0.2,151.75,7
+ORD-10868,2025-05-01,Consumer,West,Surat,Office Supplies,Storage,5.0,303.2,0.1,33.48,6
+ORD-10780,2025-01-29,Home Office,South,Bengaluru,Office Supplies,Storage,8.0,1409.54,0.0,228.84,4
+ORD-10710,2023-10-17,Consumer,East,Bhubaneswar,Office Supplies,Art,6.0,1083.96,0.1,91.67,1
+ORD-10065,2024-05-07,Home Office,South,Chennai,Office Supplies,Art,4.0,952.84,0.2,54.81,7
+ORD-10813,2024-06-03,Home Office,South,Chennai,Office Supplies,Storage,8.0,1630.12,0.15,120.91,6
+ORD-11054,2025-03-28,Corporate,East,Patna,Office Supplies,Art,3.0,481.32,0.15,29.1,1
+ORD-10649,2024-10-07,Corporate,North,Chandigarh,Furniture,Tables,7.0,3073.6,0.2,-89.45,5
+ORD-11100,2023-03-02,Consumer,East,Kolkata,Furniture,Bookcases,8.0,2899.19,0.0,435.39,3
+ORD-11115,2024-04-28,Corporate,South,Kochi,Furniture,Chairs,6.0,4381.63,0.1,281.45,4
+ORD-10302,2023-07-17,Consumer,South,Bengaluru,Technology,Phones,8.0,2368.9,0.15,282.04,3
+ORD-10254,2025-04-29,Home Office,West,Ahmedabad,Technology,Accessories,7.0,1155.72,0.2,107.92,1
+ORD-10991,2023-06-11,Corporate,East,Kolkata,Furniture,Bookcases,7.0,2716.48,0.2,-93.51,7
+ORD-10963,2024-01-02,Home Office,East,Guwahati,Technology,Machines,2.0,592.29,0.15,82.99,7
+ORD-10312,2024-03-03,Consumer,North,Jaipur,Technology,Accessories,3.0,1635.64,0.4,-148.67,5
+ORD-10908,2024-09-16,Home Office,North,Chandigarh,Furniture,Chairs,6.0,1295.71,0.15,67.83,3
+ORD-10221,2025-01-22,Corporate,West,Surat,Office Supplies,Binders,6.0,1248.35,0.1,159.76,2
+ORD-10477,2023-04-26,Home Office,North,Lucknow,Technology,Accessories,8.0,3709.12,0.05,582.22,34
+ORD-10388,2024-01-22,Consumer,West,Mumbai,Office Supplies,Storage,8.0,565.95,0.0,98.09,3
+ORD-10235,2024-08-29,Corporate,North,Delhi,Furniture,Bookcases,3.0,1137.55,0.0,137.55,2
+ORD-11058,2024-11-10,Home Office,South,Bengaluru,Technology,Machines,6.0,2906.58,0.2,140.1,5
+ORD-10636,2025-03-19,Home Office,East,Guwahati,Office Supplies,Storage,1.0,157.71,0.0,33.54,3
+ORD-10898,2024-08-15,Home Office,East,Patna,Office Supplies,Storage,3.0,643.57,0.2,57.48,4
+ORD-10305,2023-12-25,Corporate,West,Ahmedabad,Technology,Accessories,8.0,3266.63,0.4,94.99,5
+ORD-11127,2025-03-02,Corporate,West,Mumbai,Furniture,Tables,1.0,588.74,0.05,72.33,6
+ORD-10573,2023-10-19,Home Office,East,Kolkata,Technology,Phones,1.0,566.98,0.0,117.86,6
+ORD-11102,2025-04-01,Consumer,South,Chennai,Furniture,Bookcases,7.0,4110.65,0.2,-110.81,5
+ORD-10947,2024-07-08,Home Office,West,Pune,Office Supplies,Binders,6.0,663.92,0.2,68.27,4
+ORD-11155,2023-07-21,Home Office,West,Surat,Furniture,Chairs,7.0,3202.9,0.2,88.48,6
+ORD-10249,2023-07-13,Corporate,East,Patna,Furniture,Tables,3.0,709.23,0.1,9.59,1
+ORD-10836,2024-09-22,Home Office,East,Kolkata,Technology,Phones,3.0,1784.76,0.2,73.99,3
+ORD-10614,2025-06-26,Home Office,East,,Office Supplies,Binders,6.0,1117.31,0.05,192.78,5
+ORD-10071,2024-02-15,Corporate,North,Chandigarh,Furniture,Chairs,1.0,161.88,0.1,12.94,7
+ORD-10094,2024-04-21,Consumer,South,Hyderabad,Technology,Phones,4.0,1722.43,0.0,375.67,5
+ORD-10849,2024-11-05,Consumer,East,Kolkata,Technology,Accessories,7.0,5369.13,0.1,632.83,2
+ORD-10033,2025-05-25,Home Office,South,Chennai,Office Supplies,Binders,3.0,802.26,0.1,98.55,5
+ORD-10892,2024-07-05,Home Office,West,Mumbai,Office Supplies,Paper,8.0,979.88,0.3,-32.94,6
+ORD-10448,2024-01-21,Consumer,West,Surat,Furniture,Bookcases,3.0,1899.26,0.2,-136.61,5
+ORD-10445,2024-02-25,Corporate,North,Jaipur,Furniture,Bookcases,7.0,2957.42,0.2,-243.32,6
+ORD-10850,2025-02-22,Home Office,West,Mumbai,Technology,Machines,1.0,144.76,0.1,19.12,4
+ORD-10605,2025-01-13,Home Office,East,Kolkata,Office Supplies,Art,4.0,418.21,0.15,5.06,7
+ORD-10787,2024-06-05,Consumer,West,Pune,Office Supplies,Art,3.0,410.65,0.0,57.33,4
+ORD-10077,2023-05-29,Consumer,East,Kolkata,Technology,Machines,3.0,1179.29,0.0,205.34,4
+ORD-10084,2023-04-25,Consumer,North,Delhi,Office Supplies,Art,2.0,94.14,0.0,12.94,7
+ORD-10557,2023-09-18,Corporate,North,Jaipur,Office Supplies,Binders,8.0,584.33,0.05,81.19,3
+ORD-10082,2023-11-26,Corporate,West,Pune,Office Supplies,Storage,1.0,193.98,0.2,12.26,5
+ORD-10457,2024-04-15,Consumer,West,Ahmedabad,Technology,Machines,1.0,534.83,0.3,-20.19,4
+ORD-10759,2025-05-20,Corporate,North,Jaipur,Office Supplies,Art,3.0,172.61,0.1,14.91,5
+ORD-10436,2024-02-04,Home Office,West,Pune,Furniture,Chairs,3.0,1116.5,0.0,163.67,2
+ORD-10940,2023-09-27,Consumer,South,Hyderabad,Technology,Accessories,2.0,931.7,0.4,-101.96,6
+ORD-10920,2024-06-27,Consumer,North,Chandigarh,Technology,Accessories,8.0,1216.41,0.15,117.08,7
+ORD-10404,2024-10-05,Home Office,West,Pune,Office Supplies,Storage,6.0,374.21,0.1,48.14,4
+ORD-11061,2023-09-17,Corporate,West,Pune,Office Supplies,Art,7.0,1089.62,0.1,46.08,3
+ORD-11001,2025-01-30,Corporate,North,Lucknow,Office Supplies,Binders,3.0,437.38,0.4,-31.98,7
+ORD-10934,2023-08-12,Home Office,North,Delhi,Office Supplies,Storage,2.0,185.09,0.05,28.92,1
+ORD-10104,2025-04-22,Home Office,East,Kolkata,Technology,Machines,2.0,914.93,,177.13,3
+ORD-10593,2024-10-06,Home Office,South,Kochi,Technology,Machines,8.0,3655.46,0.1,582.89,6
+ORD-10712,2023-02-25,Consumer,North,,Office Supplies,Paper,3.0,502.6,0.1,46.6,3
+ORD-10062,2023-09-11,Home Office,North,Chandigarh,Technology,Accessories,4.0,2731.33,0.4,-131.26,5
+ORD-10281,2024-06-15,Home Office,South,Chennai,Office Supplies,Binders,5.0,675.36,0.2,24.05,2
+ORD-11072,2023-11-23,Consumer,South,Hyderabad,Technology,Phones,1.0,85.44,0.0,14.35,1
+ORD-10238,2024-04-08,Corporate,North,Chandigarh,Office Supplies,Binders,1.0,203.97,0.15,13.85,4
+ORD-10223,2023-07-26,Consumer,South,Chennai,Technology,Machines,4.0,1506.88,0.1,242.74,6
+ORD-10145,2023-12-21,Consumer,North,Lucknow,Furniture,Tables,8.0,4645.6,0.2,14.54,7
+ORD-11135,2023-02-05,Home Office,East,Patna,Technology,Accessories,3.0,908.56,0.1,106.61,1
+ORD-10373,2024-04-11,Corporate,West,Pune,Furniture,Chairs,3.0,1103.64,0.2,5.97,4
+ORD-10118,2024-09-17,Home Office,East,Patna,Furniture,Tables,3.0,1644.71,0.4,-169.66,1
+ORD-10935,2025-03-03,Corporate,North,Jaipur,Office Supplies,Binders,7.0,735.84,0.05,124.67,2
+ORD-10250,2023-08-05,Consumer,South,Bengaluru,Office Supplies,Storage,1.0,39.34,0.0,9.41,3
+ORD-11173,2025-03-26,Corporate,North,Lucknow,Office Supplies,Binders,6.0,1041.14,0.2,45.59,4
+ORD-10009,2023-06-01,Corporate,North,Delhi,Office Supplies,Storage,4.0,194.88,0.0,36.37,3
+ORD-10449,2025-06-10,Corporate,West,Mumbai,Technology,Machines,1.0,455.97,0.05,75.45,5
+ORD-10903,2024-02-26,Corporate,East,Patna,Office Supplies,Storage,4.0,438.81,0.0,62.05,3
+ORD-10389,2024-10-15,Home Office,East,Kolkata,Office Supplies,Storage,1.0,44.38,0.15,2.4,6
+ORD-11192,2025-05-31,Home Office,North,Delhi,Furniture,Chairs,3.0,276.02,0.0,22.26,6
+ORD-10931,2024-11-27,Corporate,West,Mumbai,Office Supplies,Binders,1.0,108.33,0.1,13.42,7
+ORD-10460,2024-04-21,Corporate,East,Bhubaneswar,Technology,Machines,8.0,2513.91,0.1,355.13,4
+ORD-11121,2024-09-06,Corporate,South,Chennai,Office Supplies,Paper,8.0,1177.43,0.2,65.3,6
+ORD-10144,2025-06-07,Consumer,North,Lucknow,Office Supplies,Paper,4.0,122.85,0.3,-7.5,3
+ORD-10501,2024-11-18,Consumer,East,Guwahati,Furniture,Tables,1.0,294.57,0.0,23.4,5
+ORD-11124,2024-09-02,Corporate,West,Ahmedabad,Technology,Accessories,3.0,698.59,0.4,-39.52,2
+ORD-10539,2024-10-12,Corporate,North,Delhi,Furniture,Tables,7.0,2305.34,0.0,247.22,4
+ORD-10177,2024-12-07,Home Office,North,Lucknow,Furniture,Bookcases,5.0,2096.35,0.2,-23.54,5
+ORD-11175,2023-10-10,Corporate,South,Chennai,Office Supplies,Paper,5.0,300.97,0.1,30.32,5
+ORD-10720,2023-07-18,Consumer,East,Patna,Technology,Phones,3.0,2161.04,0.1,230.54,5
+ORD-11024,2023-05-02,Corporate,West,Pune,Office Supplies,Art,5.0,1338.81,0.1,114.65,7
+ORD-10049,2024-12-17,Corporate,East,Bhubaneswar,Furniture,Bookcases,4.0,485.35,0.05,34.1,5
+ORD-10007,2025-01-19,Consumer,East,Guwahati,Furniture,Tables,1.0,310.43,0.1,3.89,2
+ORD-10575,2023-01-28,Home Office,North,Lucknow,Furniture,Tables,5.0,2999.1,0.0,214.74,7
+ORD-11103,2024-05-02,Home Office,North,Delhi,Technology,Machines,5.0,3852.75,0.15,464.98,4
+ORD-10357,2023-02-15,Home Office,North,Chandigarh,Technology,Phones,6.0,3193.52,0.3,53.72,6
+ORD-10329,2023-03-06,Home Office,South,Bengaluru,Office Supplies,Storage,1.0,21.66,0.2,0.36,3
+ORD-10994,2023-05-24,Corporate,South,Bengaluru,Technology,Phones,2.0,1620.51,0.05,293.03,5
+ORD-10857,2024-05-17,Home Office,South,Kochi,Furniture,Tables,5.0,957.08,0.1,39.65,2
+ORD-10258,2023-04-03,Corporate,West,Ahmedabad,Office Supplies,Storage,7.0,533.25,0.3,-36.8,2
+ORD-11170,2023-10-26,Corporate,South,Bengaluru,Technology,Accessories,7.0,2384.5,0.0,444.83,6
+ORD-10921,2023-03-02,Consumer,West,Ahmedabad,Furniture,Tables,,143.55,0.15,-2.41,4
+ORD-10798,2025-06-16,Consumer,South,Bengaluru,Office Supplies,Storage,1.0,135.98,0.3,-10.6,3
+ORD-10620,2024-07-22,Corporate,South,Chennai,Office Supplies,Art,2.0,142.66,0.4,-2.69,5
+ORD-11194,2024-07-29,Home Office,South,Bengaluru,Office Supplies,Binders,4.0,739.38,0.1,73.2,6
+ORD-10525,2024-09-18,Corporate,East,Guwahati,Technology,Accessories,6.0,3827.62,0.0,732.15,5
+ORD-11179,2023-10-13,Home Office,South,Hyderabad,Technology,Accessories,2.0,682.93,0.15,48.06,1
+ORD-10679,2023-01-07,Consumer,East,Guwahati,Office Supplies,Art,7.0,768.5,0.4,-54.11,6
+ORD-10774,2025-01-20,Corporate,North,Lucknow,Furniture,Bookcases,1.0,367.3,0.0,51.85,4
+ORD-11157,2024-09-12,Home Office,West,Surat,Furniture,Bookcases,5.0,1417.63,0.2,13.31,6
+ORD-10440,2023-03-15,Home Office,North,Delhi,Furniture,Chairs,2.0,1062.74,0.3,-57.46,1
+ORD-10531,2023-07-12,Home Office,East,Bhubaneswar,Furniture,Bookcases,5.0,430.08,0.0,48.77,4
+ORD-10992,2024-10-10,Consumer,East,Guwahati,Technology,Machines,4.0,1262.92,0.15,78.8,3
+ORD-10228,2024-04-03,Home Office,North,Lucknow,Technology,Accessories,3.0,586.18,0.15,78.79,5
+ORD-11057,2024-05-23,Home Office,North,Lucknow,Furniture,Tables,8.0,2855.88,0.05,245.15,3
+ORD-10212,2024-08-17,Home Office,East,Guwahati,Furniture,Tables,3.0,331.95,0.05,30.75,1
+ORD-10079,2024-07-04,Consumer,East,Bhubaneswar,Technology,Machines,3.0,2186.28,0.1,279.83,1
+ORD-10148,2025-02-07,Home Office,East,Guwahati,Office Supplies,Art,,1049.76,0.2,42.81,2
+ORD-10682,2023-12-08,Home Office,East,Guwahati,Furniture,Tables,2.0,978.92,0.1,51.48,2
+ORD-11060,2025-03-03,Corporate,North,Chandigarh,Office Supplies,Binders,1.0,145.06,0.4,-11.86,6
+ORD-10609,2023-12-02,Consumer,South,Chennai,Office Supplies,Storage,7.0,1020.79,0.2,9.9,6
+ORD-10133,2024-08-19,Consumer,West,Mumbai,Furniture,Tables,4.0,2627.95,0.1,137.37,2
+ORD-10439,2024-08-17,Consumer,East,Guwahati,Office Supplies,Binders,6.0,258.0,0.1,27.64,1
+ORD-10408,2023-02-05,Home Office,West,Ahmedabad,Office Supplies,Paper,2.0,545.46,0.4,-32.04,4
+ORD-10693,2024-05-12,Consumer,North,Lucknow,Technology,Machines,3.0,677.37,0.0,159.51,1
+ORD-10507,2025-03-18,Consumer,West,Pune,Office Supplies,Binders,5.0,431.62,0.2,19.2,1
+ORD-10906,2025-04-05,Home Office,West,Ahmedabad,Furniture,Chairs,5.0,1792.4,0.15,40.58,4
+ORD-10504,2023-02-12,Corporate,East,Bhubaneswar,Technology,Accessories,4.0,2010.94,0.2,125.66,3
+ORD-10695,2024-04-20,Corporate,South,Chennai,Office Supplies,Paper,3.0,31.37,0.0,5.04,2
+ORD-10347,2023-10-20,Consumer,South,Bengaluru,Technology,Machines,8.0,4627.5,,1100.17,7
+ORD-10386,2023-10-21,Home Office,West,Pune,Office Supplies,Art,3.0,412.11,,65.65,6
+ORD-10000,2025-02-22,Corporate,North,Delhi,Furniture,Bookcases,4.0,1778.69,0.4,-337.4,6
+ORD-10360,2025-03-12,Corporate,South,Bengaluru,Technology,Accessories,7.0,6431.34,0.15,202.26,6
+ORD-11150,2023-12-16,Consumer,South,Kochi,Technology,Accessories,1.0,814.63,0.2,66.93,5
+ORD-10475,2025-02-05,Consumer,North,Chandigarh,Furniture,Bookcases,7.0,4526.67,0.15,-37.77,4
+ORD-10973,2023-10-03,Home Office,North,Lucknow,Office Supplies,Binders,7.0,344.14,0.1,27.29,1
+ORD-11172,2023-08-30,Home Office,North,Jaipur,Technology,Machines,3.0,750.21,0.05,103.72,6
+ORD-10172,2024-11-19,Consumer,North,Lucknow,Office Supplies,Binders,1.0,33.15,0.05,5.89,2
+ORD-10450,2023-05-23,Consumer,West,Mumbai,Office Supplies,Binders,8.0,1671.37,0.4,-144.09,2
+ORD-10125,2023-08-18,Home Office,South,Bengaluru,Office Supplies,Art,8.0,1593.8,0.05,204.03,4
+ORD-10660,2025-06-02,Home Office,North,Chandigarh,Furniture,Tables,2.0,612.43,0.2,-21.68,5
+ORD-10530,2025-06-12,Corporate,West,Pune,Technology,Machines,6.0,1552.23,0.15,215.28,1
+ORD-10090,2024-10-28,Home Office,South,,Office Supplies,Storage,6.0,1212.38,0.0,183.28,4
+ORD-11178,2025-03-20,Home Office,South,Bengaluru,Technology,Phones,3.0,1174.86,0.2,88.87,6
+ORD-10181,2025-03-01,Consumer,East,Bhubaneswar,Furniture,Tables,,313.88,0.0,44.52,6
+ORD-10976,2024-10-03,Consumer,West,Ahmedabad,Office Supplies,Paper,7.0,187.25,0.1,20.8,4
+ORD-10414,2023-06-24,Home Office,South,Kochi,Technology,Phones,7.0,3660.03,0.3,40.63,6
+ORD-10251,2025-06-04,Consumer,East,Bhubaneswar,Technology,Machines,5.0,3352.08,0.0,589.14,2
+ORD-10069,2024-05-01,Home Office,South,Hyderabad,Technology,Accessories,8.0,1637.62,0.1,235.45,3
+ORD-10131,2025-05-27,Home Office,West,Mumbai,Office Supplies,Storage,1.0,31.65,0.15,4.06,6
+ORD-10300,2024-08-25,Consumer,East,Bhubaneswar,Office Supplies,Art,4.0,488.19,0.1,49.79,4
+ORD-10737,2023-03-14,Consumer,East,Patna,Office Supplies,Storage,8.0,723.79,0.0,157.2,5
+ORD-10326,2024-08-07,Consumer,North,Lucknow,Office Supplies,Art,3.0,490.61,0.15,50.76,5
+ORD-11191,2025-01-24,Corporate,South,Bengaluru,Furniture,Bookcases,2.0,817.9,0.1,29.79,6
+ORD-10499,2025-04-15,Home Office,East,Bhubaneswar,Furniture,Chairs,4.0,2640.85,0.1,53.04,4
+ORD-11186,2023-05-30,Home Office,South,Hyderabad,Furniture,Bookcases,7.0,2882.01,0.3,-294.2,3
+ORD-10949,2023-07-16,Consumer,West,Ahmedabad,Furniture,Chairs,3.0,1943.99,0.1,60.99,3
+ORD-10495,2023-06-19,Corporate,West,Ahmedabad,Furniture,Chairs,2.0,576.52,0.15,33.16,2
+ORD-10338,2023-09-13,Consumer,South,Bengaluru,Technology,Accessories,7.0,2291.2,0.2,214.51,6
+ORD-10996,2025-06-30,Consumer,West,Surat,Furniture,Bookcases,8.0,4028.22,0.05,321.23,6
+ORD-10164,2024-12-22,Corporate,South,Chennai,Office Supplies,Art,5.0,527.33,0.0,97.78,4
+ORD-10028,2023-06-09,Home Office,East,Patna,Technology,Phones,2.0,254.32,0.2,22.2,6
+ORD-10516,2024-11-13,Home Office,West,Pune,Office Supplies,Paper,3.0,575.34,0.1,68.83,5
+ORD-10193,2024-01-02,Corporate,South,Bengaluru,Office Supplies,Storage,6.0,108.53,0.0,17.25,3
+ORD-10654,2025-04-08,Corporate,North,Lucknow,Furniture,Tables,4.0,1637.01,0.05,91.91,6
+ORD-10802,2023-12-07,Consumer,West,Pune,Furniture,Bookcases,4.0,358.89,0.1,11.03,4
+ORD-10169,2024-06-05,Corporate,South,Chennai,Technology,Machines,7.0,4808.24,0.3,193.13,7
+ORD-10731,2024-11-02,Home Office,East,Guwahati,Furniture,Bookcases,1.0,426.28,0.0,47.44,3
+ORD-10173,2024-04-13,Corporate,West,Surat,Office Supplies,Storage,7.0,481.9,0.05,61.61,2
+ORD-10518,2023-05-21,Corporate,South,Bengaluru,Office Supplies,Paper,6.0,623.17,0.15,35.38,2
+ORD-10950,2023-03-01,Corporate,East,Patna,Furniture,Tables,1.0,223.19,0.4,-38.54,1
+ORD-10723,2023-07-22,Consumer,South,Bengaluru,Technology,Machines,5.0,3084.81,0.1,362.55,1
+ORD-10491,2025-05-06,Consumer,South,Chennai,Office Supplies,Storage,2.0,65.35,0.0,9.64,6
+ORD-10073,2023-02-25,Corporate,East,Bhubaneswar,Office Supplies,Binders,3.0,192.94,0.0,34.66,6
+ORD-11015,2025-01-05,Home Office,South,Hyderabad,Office Supplies,Storage,3.0,550.76,0.2,8.81,2
+ORD-10587,2024-04-02,Corporate,West,Surat,Office Supplies,Storage,1.0,152.64,,0.84,4
+ORD-10234,2024-08-19,Corporate,East,Guwahati,Technology,Phones,1.0,374.69,0.0,58.63,4
+ORD-10214,2024-11-27,Home Office,South,Bengaluru,Office Supplies,Binders,2.0,170.23,0.15,17.38,3
+ORD-10979,2024-03-01,Corporate,West,Surat,Technology,Phones,6.0,1665.33,0.15,193.59,1
+ORD-10132,2023-02-10,Home Office,East,Kolkata,Office Supplies,Storage,4.0,402.75,0.4,-35.5,6
+ORD-10852,2023-04-26,Corporate,West,Pune,Office Supplies,Art,8.0,1926.86,0.1,133.28,7
+ORD-10754,2023-11-22,Corporate,West,Ahmedabad,Office Supplies,Paper,3.0,76.16,0.05,9.58,3
+ORD-11144,2024-02-28,Home Office,North,Delhi,Office Supplies,Binders,1.0,198.18,0.05,27.64,7
+ORD-10185,2024-04-26,Home Office,North,Jaipur,Technology,Phones,1.0,155.54,0.4,1.65,5
+ORD-10041,2024-04-15,Home Office,East,,Technology,Phones,4.0,2841.46,0.1,421.38,6
+ORD-10108,2024-04-09,Corporate,West,Pune,Office Supplies,Storage,5.0,1110.94,0.15,79.54,2
+ORD-10983,2023-01-28,Home Office,West,,Office Supplies,Storage,5.0,124.99,0.1,13.25,2
+ORD-10568,2023-10-30,Corporate,West,Mumbai,Office Supplies,Paper,6.0,354.4,0.1,35.91,1
+ORD-10671,2024-05-06,Home Office,East,Guwahati,Furniture,Chairs,2.0,958.54,0.2,-14.72,2
+ORD-11030,2024-09-21,Home Office,South,Hyderabad,Office Supplies,Binders,5.0,115.88,0.2,6.22,5
+ORD-11171,2023-01-13,Consumer,North,Chandigarh,Technology,Accessories,6.0,1041.81,0.05,197.77,7
+ORD-10483,2024-11-11,Consumer,North,Chandigarh,Furniture,Chairs,4.0,2067.98,0.4,-365.57,7
+ORD-10468,2023-05-16,Corporate,South,Chennai,Furniture,Tables,6.0,2247.47,0.3,-167.6,2
+ORD-10024,2024-06-27,Corporate,East,Kolkata,Office Supplies,Paper,2.0,510.57,0.1,51.82,3
+ORD-10838,2025-03-28,Corporate,South,Kochi,Furniture,Tables,2.0,1491.81,0.2,64.34,6
+ORD-10700,2025-02-09,Consumer,West,Mumbai,Technology,Accessories,8.0,2886.73,0.15,266.77,3
+ORD-10861,2025-06-25,Corporate,North,Jaipur,Furniture,Bookcases,2.0,169.5,0.05,13.73,3
+ORD-11107,2023-02-25,Corporate,West,Mumbai,Office Supplies,Binders,4.0,209.74,0.05,20.29,4
+ORD-10366,2024-09-30,Home Office,North,Chandigarh,Furniture,Bookcases,5.0,2841.97,0.2,34.96,4
+ORD-10867,2024-11-15,Home Office,East,Bhubaneswar,Technology,Accessories,7.0,2147.21,0.15,266.46,7
+ORD-11069,2024-09-23,Corporate,South,Kochi,Office Supplies,Storage,7.0,999.84,0.0,196.04,3
+ORD-10383,2024-05-07,Consumer,West,Surat,Furniture,Chairs,4.0,966.51,0.05,102.03,3
+ORD-10454,2023-02-23,Consumer,West,Surat,Office Supplies,Storage,6.0,355.59,0.0,54.51,7
+ORD-10264,2023-08-01,Corporate,West,Mumbai,Technology,Phones,6.0,4107.92,,604.59,3
+ORD-10783,2024-06-07,Home Office,East,Bhubaneswar,Office Supplies,Art,1.0,165.86,0.15,14.76,1
+ORD-11013,2023-02-20,Corporate,North,Delhi,Office Supplies,Art,1.0,217.1,0.1,16.49,6
+ORD-10444,2024-05-22,Home Office,East,Kolkata,Technology,Accessories,8.0,2649.06,0.0,543.17,4
+ORD-10395,2023-07-22,Corporate,North,Delhi,Office Supplies,Paper,3.0,86.58,0.0,14.89,5
+ORD-10764,2024-07-12,Consumer,North,Chandigarh,Office Supplies,Paper,5.0,999.24,0.0,166.44,2
+ORD-10176,2025-03-10,Corporate,North,Delhi,Furniture,Bookcases,1.0,426.77,0.3,-49.69,7
+ORD-10018,2025-05-03,Consumer,East,Patna,Technology,Accessories,8.0,1485.02,0.1,177.64,6
+ORD-10727,2025-05-23,Corporate,South,Chennai,Technology,Accessories,3.0,2341.51,0.4,46.9,5
+ORD-10841,2024-06-18,Consumer,West,Ahmedabad,Office Supplies,Binders,5.0,1288.81,0.15,104.69,6
+ORD-10595,2024-07-22,Home Office,West,Ahmedabad,Office Supplies,Storage,7.0,1225.63,0.1,130.34,2
+ORD-10061,2024-09-22,Corporate,South,Chennai,Office Supplies,Storage,6.0,300.35,0.0,46.16,3
+ORD-10272,2024-12-01,Corporate,North,Delhi,Furniture,Tables,7.0,4623.58,0.0,454.81,3
+ORD-11142,2025-06-27,Home Office,East,Kolkata,Technology,Machines,5.0,2492.06,0.1,343.34,2
+ORD-10278,2024-12-29,Corporate,West,Ahmedabad,Office Supplies,Art,8.0,1496.88,0.4,-88.92,1
+ORD-10869,2023-02-28,Corporate,East,Bhubaneswar,Technology,Accessories,3.0,1374.31,0.4,-1.14,3
+ORD-10368,2024-06-01,Corporate,East,Patna,Office Supplies,Storage,1.0,141.18,0.2,14.78,1
+ORD-10916,2024-10-25,Consumer,South,Bengaluru,Furniture,Bookcases,7.0,3790.82,0.4,-915.05,7
+ORD-10846,2023-10-05,Corporate,North,Chandigarh,Furniture,Tables,4.0,2292.31,0.15,138.37,4
+ORD-10888,2025-05-18,Corporate,East,Patna,Technology,Phones,3.0,2549.65,0.15,209.55,3
+ORD-11096,2025-04-12,Consumer,East,Patna,Technology,Machines,2.0,1625.99,0.05,239.83,7
+ORD-10796,2023-05-27,Home Office,North,Jaipur,Office Supplies,Paper,5.0,1015.1,0.1,160.23,3
+ORD-10547,2024-07-09,Consumer,North,Lucknow,Furniture,Bookcases,2.0,1518.97,0.1,86.61,3
+ORD-10909,2023-12-13,Consumer,North,Chandigarh,Furniture,Chairs,2.0,358.12,0.15,7.16,7
+ORD-10688,2023-12-14,Corporate,West,Pune,Technology,Phones,2.0,1394.25,0.3,43.36,1
+ORD-10930,2023-06-18,Home Office,East,Bhubaneswar,Furniture,Tables,5.0,3550.63,0.05,225.34,7
+ORD-10456,2024-06-02,Home Office,West,Ahmedabad,Technology,Phones,6.0,1745.5,0.4,-180.2,4
+ORD-10393,2024-11-26,Consumer,North,Jaipur,Technology,Phones,7.0,3062.4,0.2,276.71,2
+ORD-10675,2025-03-03,Consumer,North,Chandigarh,Furniture,Tables,4.0,584.18,0.15,15.31,6
+ORD-10942,2024-05-02,Home Office,South,Bengaluru,Office Supplies,Paper,7.0,1474.58,0.3,93.46,1
+ORD-10997,2024-07-11,Consumer,West,Surat,Furniture,Tables,8.0,5146.09,0.0,454.24,7
+ORD-10375,2024-01-21,Consumer,South,Hyderabad,Office Supplies,Art,2.0,164.66,0.1,23.96,6
+ORD-10412,2025-04-21,Consumer,West,Surat,Furniture,Bookcases,3.0,588.53,0.15,-0.39,5
+ORD-10074,2024-03-10,Corporate,East,Kolkata,Furniture,Bookcases,7.0,5131.68,,-272.44,2
+ORD-11138,2023-11-11,Consumer,East,Kolkata,Technology,Phones,8.0,4705.52,0.2,232.84,6
+ORD-10918,2024-08-24,Home Office,West,Surat,Technology,Accessories,6.0,1405.9,0.15,182.5,1
+ORD-10500,2024-04-07,Corporate,West,Ahmedabad,Office Supplies,Storage,7.0,751.48,0.15,69.98,1
+ORD-10826,2023-06-18,Home Office,East,Kolkata,Technology,Accessories,8.0,4764.64,0.0,938.69,4
+ORD-10616,2023-06-27,Consumer,South,Chennai,Technology,Machines,2.0,1128.74,0.0,244.41,4
+ORD-10114,2024-02-21,Corporate,North,Lucknow,Furniture,Bookcases,6.0,1338.19,0.05,138.45,3
+ORD-10417,2024-08-18,Consumer,North,Jaipur,Office Supplies,Storage,2.0,245.92,0.0,37.16,4
+ORD-10601,2023-05-05,Home Office,West,Surat,Office Supplies,Art,6.0,588.38,0.05,80.78,7
+ORD-10604,2024-07-09,Consumer,South,Kochi,Technology,Machines,3.0,590.25,0.05,122.27,3
+ORD-10089,2024-08-10,Home Office,West,Ahmedabad,Technology,Machines,2.0,1762.9,0.05,214.29,3
+ORD-11165,2024-04-26,Consumer,East,Guwahati,Technology,Machines,6.0,2004.79,0.2,176.74,4
+ORD-10498,2023-03-07,Home Office,South,Bengaluru,Technology,Machines,5.0,540.01,0.15,31.3,2
+ORD-10905,2024-08-09,Home Office,East,Patna,Furniture,Tables,6.0,1114.61,0.4,-147.97,3
+ORD-10912,2023-08-13,Home Office,East,Patna,Office Supplies,Art,4.0,176.02,0.05,30.87,4
+ORD-10910,2024-08-21,Consumer,South,Chennai,Technology,Machines,4.0,1921.57,0.15,186.43,5
+ORD-10011,2024-10-20,Consumer,West,Surat,Office Supplies,Art,4.0,264.86,0.3,-16.65,5
+ORD-10396,2025-05-26,Corporate,South,Bengaluru,Office Supplies,Storage,3.0,569.68,0.2,42.41,6
+ORD-10777,2024-11-13,Corporate,West,Surat,Furniture,Tables,3.0,800.58,0.15,16.1,5
+ORD-10555,2023-12-26,Home Office,North,Chandigarh,Office Supplies,Storage,5.0,432.18,0.1,70.38,6
+ORD-10042,2025-03-12,Consumer,East,Patna,Office Supplies,Binders,1.0,86.04,0.0,13.2,5
+ORD-10167,2023-07-25,Home Office,North,Chandigarh,Technology,Accessories,8.0,3611.95,0.2,411.53,2
+ORD-10416,2023-04-29,Consumer,North,Lucknow,Furniture,Tables,5.0,2352.16,0.1,191.53,1
+ORD-10576,2024-01-11,Corporate,West,Surat,Technology,Machines,6.0,3916.47,0.15,409.35,3
+ORD-10267,2024-07-15,Consumer,East,Guwahati,Furniture,Tables,3.0,665.12,0.1,12.41,3
+ORD-10889,2023-07-28,Home Office,West,Surat,Office Supplies,Storage,5.0,518.15,0.15,26.61,3
+ORD-10426,2025-05-19,Corporate,South,Hyderabad,Technology,Machines,3.0,1321.09,0.4,-142.73,2
+ORD-10690,2024-01-31,Corporate,West,Surat,Office Supplies,Storage,3.0,471.71,,-2.54,7
+ORD-10544,2024-09-06,Consumer,East,Patna,Technology,Accessories,2.0,276.39,0.0,57.75,6
+ORD-11139,2023-08-09,Corporate,West,Mumbai,Technology,Accessories,8.0,4570.86,0.2,368.23,5
+ORD-10674,2024-09-02,Consumer,North,Lucknow,Furniture,Tables,6.0,2942.18,0.0,384.6,7
+ORD-10689,2023-09-26,Home Office,North,Delhi,Office Supplies,Storage,4.0,718.59,0.15,43.82,4
+ORD-11117,2025-03-10,Home Office,East,Patna,Technology,Machines,8.0,6589.78,0.05,994.12,7
+ORD-11193,2024-03-06,Corporate,East,Patna,Office Supplies,Paper,2.0,78.42,0.1,5.81,7
+ORD-11162,2023-07-22,Home Office,North,Chandigarh,Technology,Phones,3.0,1219.37,0.1,164.23,3
+ORD-10985,2024-03-03,Home Office,North,Delhi,Office Supplies,Binders,2.0,163.25,0.1,22.29,4
+ORD-10257,2023-09-18,Home Office,East,Guwahati,Technology,Accessories,4.0,2289.22,0.15,220.49,5
+ORD-10335,2024-11-24,Corporate,West,Pune,Technology,Accessories,3.0,617.61,0.15,61.05,4
+ORD-10015,2023-11-28,Home Office,West,Mumbai,Furniture,Tables,4.0,876.8,0.15,19.86,7
+ORD-10932,2023-01-21,Consumer,South,Hyderabad,Office Supplies,Binders,4.0,369.95,0.2,12.5,2
+ORD-10324,2024-11-24,Corporate,North,Chandigarh,Office Supplies,Storage,7.0,548.17,0.1,61.72,2
+ORD-10607,2025-06-29,Corporate,West,Surat,Furniture,Chairs,7.0,1618.89,0.3,-240.43,6
+ORD-11070,2025-05-15,Corporate,South,Bengaluru,Technology,Phones,1.0,167.04,0.1,24.74,4
+ORD-10814,2025-02-13,Corporate,West,,Office Supplies,Paper,5.0,628.02,0.0,65.95,6
+ORD-10222,2025-04-26,Home Office,South,Bengaluru,Technology,Accessories,1.0,255.93,0.0,49.51,3
+ORD-10179,2024-07-10,Home Office,South,Chennai,Office Supplies,Binders,1.0,121.25,0.05,15.7,7
+ORD-10099,2023-10-31,Consumer,South,Chennai,Technology,Machines,6.0,5193.19,0.1,871.69,2
+ORD-10757,2025-03-29,Home Office,East,Guwahati,Furniture,Bookcases,7.0,3473.75,0.2,180.61,2
+ORD-10521,2024-07-17,Corporate,North,Jaipur,Furniture,Tables,2.0,359.56,0.1,28.06,5
+ORD-10022,2023-07-02,Home Office,West,Pune,Office Supplies,Storage,4.0,864.43,0.2,49.63,1
+ORD-10356,2023-09-02,Home Office,West,Surat,Furniture,Bookcases,2.0,314.71,0.4,-25.58,6
+ORD-10733,2024-06-04,Consumer,West,Surat,Technology,Accessories,7.0,2470.95,0.15,322.04,1
+ORD-10993,2023-12-15,Home Office,South,Chennai,Office Supplies,Paper,6.0,737.05,0.05,71.46,7
+ORD-11128,2024-12-21,Consumer,East,Guwahati,Office Supplies,Paper,8.0,145.8,0.2,13.34,6
+ORD-10611,2024-10-26,Consumer,South,Chennai,Office Supplies,Paper,7.0,1155.84,0.1,111.26,4
+ORD-11035,2023-06-02,Corporate,East,Kolkata,Furniture,Bookcases,2.0,224.36,0.15,4.48,2
+ORD-10340,2023-09-17,Home Office,North,Lucknow,Office Supplies,Binders,2.0,180.33,0.3,-8.66,1
+ORD-10431,2023-10-15,Consumer,East,Patna,Furniture,Chairs,8.0,1030.5,0.2,-47.46,6
+ORD-10806,2025-05-28,Corporate,North,Chandigarh,Technology,Accessories,5.0,4724.03,0.4,-233.61,6
+ORD-10217,2024-01-13,Home Office,West,Surat,Furniture,Bookcases,8.0,1807.7,0.3,-98.81,3
+ORD-10203,2025-02-27,Consumer,West,Ahmedabad,Office Supplies,Binders,6.0,1651.76,0.15,16.75,4
+ORD-10936,2024-07-20,Consumer,West,Surat,Furniture,Tables,3.0,939.01,0.05,70.29,7
+ORD-10953,2025-04-29,Corporate,South,Kochi,Office Supplies,Binders,6.0,1001.17,0.2,11.94,4
+ORD-10093,2024-06-16,Home Office,North,Lucknow,Technology,Phones,6.0,2443.67,0.05,425.35,2
+ORD-10823,2024-09-08,Consumer,South,Bengaluru,Office Supplies,Paper,6.0,591.13,0.05,78.25,2
+ORD-10068,2024-09-04,Home Office,West,Ahmedabad,Office Supplies,Paper,5.0,370.66,0.1,29.93,4
+ORD-10925,2023-01-06,Home Office,East,Patna,Technology,Phones,7.0,6440.05,0.3,-57.63,7
+ORD-10284,2024-10-09,Home Office,North,Chandigarh,Office Supplies,Paper,5.0,684.16,0.05,103.56,1
+ORD-10696,2023-02-25,Home Office,South,Hyderabad,Office Supplies,Storage,5.0,1133.39,0.2,140.32,3
+ORD-10085,2023-06-16,Consumer,North,Jaipur,Office Supplies,Storage,5.0,226.4,0.3,-12.77,1
+ORD-10434,2024-04-10,Consumer,West,Surat,Furniture,Tables,2.0,5286.72,0.15,-15.15,5
+ORD-10820,2023-05-02,Consumer,South,Hyderabad,Technology,Machines,7.0,4177.68,0.05,519.05,3
+ORD-10153,2023-06-08,Home Office,South,Bengaluru,Office Supplies,Art,4.0,789.41,0.0,137.78,4
+ORD-10075,2024-11-05,Consumer,East,Bhubaneswar,Technology,Accessories,6.0,5200.11,0.1,505.82,1
+ORD-11088,2024-05-08,Corporate,West,Pune,Office Supplies,Storage,5.0,297.13,0.0,46.12,1
+ORD-10580,2023-06-30,Home Office,West,Pune,Furniture,Bookcases,2.0,1466.86,0.1,49.2,3
+ORD-10446,2023-01-19,Corporate,South,Hyderabad,Office Supplies,Paper,3.0,186.35,0.1,19.57,1
+ORD-10703,2023-02-24,Consumer,South,Chennai,Furniture,Tables,1.0,530.82,0.05,25.9,4
+ORD-10188,2023-07-17,Corporate,West,Ahmedabad,Furniture,Bookcases,7.0,3937.34,0.05,447.29,2
+ORD-10271,2025-03-01,Corporate,North,Delhi,Office Supplies,Paper,1.0,183.94,0.0,29.56,2
+ORD-10236,2023-12-20,Consumer,East,Guwahati,Office Supplies,Paper,3.0,281.51,0.2,18.24,3
+ORD-10487,2024-01-31,Consumer,North,Lucknow,Furniture,Chairs,6.0,948.59,0.05,101.16,2
+ORD-11176,2023-06-09,Home Office,North,Delhi,Technology,Accessories,3.0,569.23,0.2,53.83,3
+ORD-10559,2023-09-15,Consumer,North,Lucknow,Technology,Machines,,4099.06,0.1,359.18,2
+ORD-10117,2024-06-08,Consumer,North,Delhi,Technology,Accessories,7.0,2357.43,0.15,205.56,3
+ORD-10637,2023-04-04,Home Office,South,Bengaluru,Technology,Phones,3.0,648.01,0.0,138.17,4
+ORD-11093,2023-10-17,Consumer,West,Ahmedabad,Office Supplies,Art,6.0,445.36,0.0,75.05,7
+ORD-10750,2024-10-22,Consumer,South,Hyderabad,Office Supplies,Binders,5.0,493.33,0.2,12.19,1
+ORD-10512,2023-12-20,Home Office,West,Surat,Office Supplies,Binders,3.0,261.05,0.15,19.72,1
+ORD-10633,2024-02-25,Home Office,West,Mumbai,Technology,Accessories,3.0,1208.3,0.0,242.44,2
+ORD-10809,2023-12-05,Home Office,East,Patna,Furniture,Bookcases,5.0,869.29,0.1,51.4,3
+ORD-11032,2023-02-12,Consumer,East,Kolkata,Furniture,Tables,4.0,2565.43,0.1,200.85,5
+ORD-10881,2023-01-04,Corporate,East,Patna,Furniture,Tables,5.0,2393.41,0.1,78.93,4
+ORD-10126,2024-10-10,Consumer,East,Bhubaneswar,Office Supplies,Storage,3.0,42.49,0.15,2.99,2
+ORD-10790,2023-07-29,Home Office,West,Mumbai,Technology,Phones,1.0,778.62,0.1,79.16,2
+ORD-10116,2025-06-29,Consumer,East,Guwahati,Furniture,Chairs,4.0,656.94,0.1,23.35,5
+ORD-10473,2023-04-24,Consumer,South,Kochi,Office Supplies,Art,4.0,160.33,0.1,18.51,5
+ORD-10740,2025-06-12,Consumer,South,Kochi,Technology,Accessories,8.0,2009.12,0.1,307.45,7
+ORD-11027,2024-10-22,Consumer,North,Delhi,Technology,Phones,6.0,4258.37,0.0,807.49,4
+ORD-10057,2023-08-11,Home Office,South,Kochi,Furniture,Chairs,1.0,532.62,0.1,24.2,1
+ORD-10603,2024-11-22,Corporate,West,Pune,Office Supplies,Storage,1.0,61.3,0.4,-10.7,6
+ORD-10786,2023-01-18,Consumer,North,Delhi,Technology,Machines,7.0,1269.83,0.4,-173.19,1
+ORD-11004,2024-04-20,Home Office,East,Patna,Office Supplies,Paper,2.0,361.83,0.0,61.58,7
+ORD-10656,2023-12-12,Corporate,East,Guwahati,Office Supplies,Art,2.0,382.75,0.1,45.32,7
+ORD-10933,2024-04-30,Consumer,West,Pune,Office Supplies,Binders,1.0,116.4,0.0,20.43,6
+ORD-10952,2023-06-27,Corporate,South,Bengaluru,Office Supplies,Paper,3.0,444.57,0.15,14.41,1
+ORD-10105,2024-10-18,Corporate,South,Chennai,Technology,Accessories,2.0,1158.5,0.4,-66.16,5
+ORD-10635,2023-11-29,Consumer,North,Chandigarh,Technology,Accessories,5.0,2199.9,0.3,94.72,1
+ORD-10369,2024-04-26,Corporate,West,Ahmedabad,Office Supplies,Paper,8.0,1580.55,0.0,272.65,7
+ORD-10268,2024-08-10,Consumer,East,Bhubaneswar,Furniture,Tables,1.0,624.96,0.2,21.39,7
+ORD-10655,2024-04-05,Consumer,East,Bhubaneswar,Office Supplies,Paper,5.0,738.88,0.0,134.19,7
+ORD-10819,2024-04-20,Home Office,South,Hyderabad,Technology,Machines,2.0,1414.14,0.1,236.01,3
+ORD-10822,2023-06-19,Corporate,South,Chennai,Office Supplies,Binders,5.0,1278.13,0.0,146.92,2
+ORD-10046,2023-06-26,Consumer,South,Hyderabad,Office Supplies,Binders,1.0,79.7,0.4,-7.81,1
+ORD-10349,2025-03-20,Corporate,North,Jaipur,Furniture,Bookcases,6.0,3544.74,0.3,-124.23,2
+ORD-10773,2025-04-08,Home Office,West,Pune,Office Supplies,Paper,7.0,332.96,0.0,52.2,3
+ORD-10195,2023-11-07,Corporate,North,Jaipur,Technology,Accessories,3.0,908.59,0.4,-114.8,7
+ORD-10102,2024-07-08,Consumer,North,Chandigarh,Furniture,Bookcases,8.0,2775.43,0.15,-88.81,6
+ORD-10004,2024-02-03,Home Office,South,Chennai,Office Supplies,Binders,8.0,1779.6,0.05,243.2,7
+ORD-10619,2024-12-14,Home Office,West,Surat,Technology,Phones,7.0,3123.82,0.3,203.16,4
+ORD-10571,2023-08-10,Home Office,West,Pune,Technology,Phones,2.0,1634.08,0.2,64.53,3
+ORD-10052,2024-11-02,Consumer,East,Bhubaneswar,Furniture,Tables,7.0,4945.75,0.15,8.88,4
+ORD-10263,2025-03-14,Corporate,West,Ahmedabad,Office Supplies,Storage,3.0,77.43,0.4,-7.2,3
+ORD-11109,2025-02-04,Consumer,West,Ahmedabad,Office Supplies,Paper,3.0,440.84,0.0,71.1,6
+ORD-10443,2025-01-21,Consumer,East,Patna,Technology,Phones,8.0,4640.63,0.0,892.82,7
+ORD-11005,2023-08-28,Home Office,East,Patna,Technology,Machines,7.0,1033.91,0.0,198.51,1
+ORD-10782,2024-03-22,Consumer,South,Hyderabad,Furniture,Tables,3.0,604.95,0.1,8.68,4
+ORD-10837,2024-04-10,Home Office,North,Lucknow,Office Supplies,Binders,,232.33,0.2,-4.61,7
+ORD-10875,2023-03-29,Corporate,North,Lucknow,Office Supplies,Art,1.0,137.35,0.2,4.21,6
+ORD-10691,2023-10-27,Corporate,East,Patna,Office Supplies,Binders,2.0,231.73,0.0,23.91,2
+ORD-10304,2025-06-18,Consumer,East,,Office Supplies,Storage,5.0,178.35,0.05,26.28,4
+ORD-10341,2024-01-13,Consumer,North,Chandigarh,Furniture,Chairs,3.0,1915.41,0.1,110.56,4
+ORD-11022,2023-09-30,Corporate,South,Bengaluru,Office Supplies,Storage,6.0,691.7,0.0,145.65,4
+ORD-10313,2024-11-10,Consumer,East,Bhubaneswar,Office Supplies,Storage,8.0,1174.41,0.0,253.41,1
+ORD-10149,2024-10-22,Consumer,West,Ahmedabad,Office Supplies,Art,4.0,461.84,0.1,64.92,6
+ORD-10124,2023-06-09,Consumer,West,Pune,Technology,Phones,2.0,1463.92,0.4,-23.41,7
+ORD-11079,2023-08-01,Home Office,South,Kochi,Technology,Phones,2.0,1367.66,0.0,261.35,4
+ORD-10574,2023-03-30,Consumer,South,Bengaluru,Furniture,Chairs,6.0,2423.37,0.4,-195.4,7
+ORD-10697,2023-01-14,Consumer,West,Pune,Furniture,Tables,1.0,532.22,0.1,-1.47,1
+ORD-10664,2024-06-12,Corporate,South,Chennai,Office Supplies,Binders,6.0,592.33,0.1,51.86,6
+ORD-10050,2023-07-18,Consumer,West,Mumbai,Furniture,Tables,7.0,2887.9,0.0,486.41,1
+ORD-10726,2024-08-18,Corporate,West,Ahmedabad,Furniture,Bookcases,1.0,246.18,0.2,-3.91,4
+ORD-10799,2023-11-07,Consumer,South,Hyderabad,Office Supplies,Paper,7.0,1383.3,0.1,186.85,5
+ORD-10833,2023-03-21,Corporate,East,Guwahati,Technology,Machines,2.0,1112.61,0.05,156.28,2
+ORD-10353,2024-06-18,Home Office,East,Bhubaneswar,Office Supplies,Art,3.0,286.41,0.15,21.04,5
+ORD-11169,2024-09-24,Home Office,North,Jaipur,Office Supplies,Art,2.0,140.83,0.4,-20.81,7
+ORD-10142,2023-01-22,Consumer,East,Bhubaneswar,Office Supplies,Paper,1.0,133.44,0.2,7.06,6
+ORD-10470,2024-08-19,Home Office,North,Jaipur,Furniture,Chairs,1.0,371.53,0.3,-62.89,7
+ORD-10653,2025-02-17,Corporate,North,Delhi,Furniture,Tables,4.0,808.38,0.0,44.61,3
+ORD-10399,2023-02-15,Consumer,West,Pune,Furniture,Chairs,3.0,191.44,0.05,20.11,5
+ORD-11036,2025-04-24,Home Office,East,Guwahati,Technology,Accessories,4.0,498.62,0.0,92.66,3
+ORD-10946,2024-05-14,Consumer,West,Pune,Technology,Machines,7.0,3915.87,0.1,481.14,2
+ORD-10320,2024-02-25,Home Office,South,Hyderabad,Office Supplies,Storage,2.0,369.66,0.05,62.25,1
+ORD-10019,2024-11-02,Home Office,West,Pune,Office Supplies,Binders,5.0,3713.04,0.15,42.14,2
+ORD-10684,2024-08-16,Home Office,North,Delhi,Office Supplies,Paper,8.0,455.87,0.4,-24.21,1
+ORD-10035,2024-02-11,Home Office,North,Chandigarh,Office Supplies,Storage,1.0,209.1,0.4,-20.99,6
+ORD-10824,2023-07-16,Consumer,North,Lucknow,Technology,Accessories,,2663.48,0.3,58.92,6
+ORD-10505,2024-10-19,Corporate,East,Guwahati,Furniture,Chairs,6.0,2614.89,0.1,265.0,4
+ORD-10827,2023-04-04,Consumer,East,Patna,Technology,Phones,6.0,4911.47,0.4,-174.31,5
+ORD-11087,2023-10-15,Corporate,West,Mumbai,Technology,Accessories,4.0,2314.33,0.1,425.89,5
+ORD-10407,2024-04-22,Home Office,North,Lucknow,Office Supplies,Storage,4.0,47.54,0.0,9.92,5
+ORD-10817,2025-04-16,Home Office,East,Patna,Office Supplies,Binders,3.0,360.83,0.1,27.61,4
+ORD-10866,2023-03-08,Corporate,South,Kochi,Technology,Phones,7.0,2429.03,0.1,324.65,1
+ORD-10537,2024-05-25,Consumer,West,Mumbai,Technology,Phones,8.0,4952.53,0.0,879.97,4
+ORD-10758,2023-06-30,Consumer,North,Lucknow,Technology,Phones,4.0,1815.23,0.15,241.5,6
+ORD-11085,2023-02-04,Consumer,South,Chennai,Office Supplies,Storage,5.0,53.62,0.4,-6.48,6
+ORD-10923,2024-06-10,Corporate,East,Bhubaneswar,Office Supplies,Paper,3.0,691.19,0.3,-15.6,5
+ORD-10038,2024-09-04,Corporate,East,Bhubaneswar,Office Supplies,Paper,2.0,201.68,0.2,7.42,3
+ORD-10175,2023-04-22,Home Office,West,Mumbai,Technology,Accessories,1.0,745.19,0.15,64.44,7
+ORD-10245,2024-08-18,Consumer,South,Chennai,Office Supplies,Paper,2.0,238.47,0.3,3.56,2
+ORD-10810,2023-02-11,Corporate,South,Kochi,Technology,Phones,7.0,4022.36,0.2,150.93,2
+ORD-11101,2025-06-10,Consumer,West,Ahmedabad,Office Supplies,Art,3.0,433.02,0.0,73.94,4
+ORD-11153,2023-12-02,Home Office,South,Kochi,Technology,Accessories,5.0,2635.99,0.05,451.87,2
+ORD-10784,2024-12-13,Corporate,East,Bhubaneswar,Technology,Phones,8.0,4121.67,0.2,249.15,4
+ORD-10101,2025-03-08,Consumer,North,Lucknow,Office Supplies,Binders,4.0,858.68,0.15,75.43,1
+ORD-10489,2024-01-07,Corporate,South,Bengaluru,Office Supplies,Paper,8.0,292.52,0.0,52.35,1
+ORD-10154,2023-06-04,Consumer,West,Ahmedabad,Office Supplies,Binders,8.0,1702.53,0.0,299.52,7
+ORD-10638,2023-03-04,Home Office,East,Kolkata,Furniture,Tables,8.0,4413.99,0.0,326.67,5
+ORD-10662,2023-11-15,Consumer,North,Jaipur,Office Supplies,Storage,1.0,161.7,0.3,-11.66,1
+ORD-10853,2025-06-07,Corporate,East,Guwahati,Office Supplies,Art,2.0,452.82,0.1,56.29,5
+ORD-10287,2023-08-23,Home Office,North,Delhi,Technology,Phones,5.0,1648.76,0.1,258.65,5
+ORD-10625,2025-02-23,Consumer,South,Bengaluru,Technology,Accessories,4.0,2456.16,0.0,409.61,2
+ORD-11143,2024-12-01,Consumer,West,Ahmedabad,Office Supplies,Storage,7.0,1446.02,0.15,75.07,3
+ORD-10685,2023-10-07,Home Office,South,Kochi,Office Supplies,Binders,3.0,49.19,0.0,10.47,1
+ORD-11033,2024-02-28,Corporate,East,Guwahati,Office Supplies,Binders,7.0,76.22,0.1,9.93,2
+ORD-10902,2024-08-04,Consumer,North,Chandigarh,Furniture,Tables,8.0,2732.23,0.3,-99.96,7
+ORD-10569,2023-09-28,Home Office,South,Hyderabad,Furniture,Bookcases,4.0,1917.24,0.4,-349.93,7
+ORD-11160,2025-01-03,Consumer,North,Lucknow,Office Supplies,Paper,5.0,1096.65,0.1,127.72,2
+ORD-10734,2024-04-17,Corporate,North,Jaipur,Office Supplies,Paper,3.0,665.04,,51.87,3
+ORD-10792,2024-05-17,Consumer,North,Chandigarh,Office Supplies,Storage,4.0,336.33,0.0,56.83,4
+ORD-10017,2023-07-04,Home Office,West,Ahmedabad,Technology,Phones,1.0,514.26,0.3,-28.06,3
+ORD-10127,2024-08-06,Home Office,West,Surat,Office Supplies,Paper,5.0,477.19,0.15,50.1,1
+ORD-10322,2024-02-11,Corporate,North,Chandigarh,Furniture,Bookcases,1.0,291.46,0.2,-4.15,1
+ORD-10255,2025-04-20,Home Office,North,Delhi,Office Supplies,Art,6.0,1263.87,0.2,25.51,7
+ORD-11189,2023-03-31,Home Office,East,Bhubaneswar,Technology,Accessories,3.0,1067.63,0.3,27.2,1
+ORD-11196,2024-10-06,Home Office,West,Pune,Technology,Phones,6.0,1226.38,0.1,120.69,6
+ORD-10190,2024-02-07,Home Office,South,Chennai,Technology,Phones,3.0,1904.46,0.3,2.48,4
+ORD-10115,2023-08-02,Consumer,North,Jaipur,Office Supplies,Paper,7.0,299.77,0.1,38.74,6
+ORD-11190,2024-07-08,Consumer,South,Bengaluru,Office Supplies,Art,8.0,1866.51,0.1,239.69,4
+ORD-11002,2023-03-22,Consumer,South,Chennai,Office Supplies,Binders,2.0,560.48,0.1,32.22,3
+ORD-10606,2023-07-23,Corporate,West,Surat,Furniture,Chairs,3.0,267.83,0.15,7.06,7
+ORD-10180,2023-11-04,Home Office,West,Ahmedabad,Office Supplies,Paper,2.0,325.84,0.3,-1.78,3
+ORD-10301,2025-03-23,Corporate,North,,Furniture,Bookcases,1.0,328.19,0.4,-7.43,1
+ORD-10496,2023-11-03,Corporate,West,Surat,Technology,Accessories,7.0,4802.73,0.15,438.24,1
+ORD-10348,2024-07-16,Home Office,West,Pune,Furniture,Bookcases,7.0,1501.69,0.2,0.81,3
+ORD-11052,2024-12-23,Consumer,West,Surat,Office Supplies,Binders,5.0,393.41,0.0,74.12,5
+ORD-11125,2023-01-03,Consumer,West,Pune,Furniture,Tables,4.0,714.24,0.05,57.77,4
+ORD-10744,2023-06-15,Home Office,North,Jaipur,Technology,Machines,1.0,346.95,0.15,26.49,1
+ORD-11098,2024-04-25,Consumer,North,Delhi,Office Supplies,Paper,7.0,351.82,0.15,19.56,4
+ORD-10988,2024-03-22,Consumer,West,Mumbai,Office Supplies,Storage,7.0,299.92,0.15,36.88,5
+ORD-10517,2025-02-27,Corporate,West,Ahmedabad,Furniture,Chairs,3.0,592.25,0.2,3.21,6
+ORD-10372,2023-07-25,Consumer,East,Guwahati,Office Supplies,Storage,4.0,353.71,0.1,42.15,4
+ORD-10045,2024-05-15,Corporate,West,Mumbai,Office Supplies,Art,7.0,125.16,0.0,25.51,6
+ORD-10476,2024-08-19,Consumer,East,Bhubaneswar,Furniture,Bookcases,5.0,1842.48,0.0,238.51,7
+ORD-10157,2024-06-30,Corporate,East,Patna,Office Supplies,Art,6.0,587.99,0.15,13.83,6
+ORD-11063,2024-09-01,Consumer,North,Lucknow,Technology,Phones,1.0,165.33,0.05,31.82,3
+ORD-10171,2024-08-18,Corporate,North,Delhi,Furniture,Tables,4.0,2550.64,0.2,-95.2,7
+ORD-10016,2023-04-10,Consumer,East,Kolkata,Furniture,Chairs,3.0,1374.18,0.15,16.68,5
+ORD-10511,2024-10-08,Corporate,South,Chennai,Technology,Phones,4.0,2355.88,0.05,349.52,4
+ORD-10048,2025-05-12,Consumer,West,Mumbai,Technology,Accessories,2.0,669.51,0.2,57.53,4
+ORD-10191,2024-01-09,Corporate,South,Hyderabad,Office Supplies,Storage,8.0,1033.09,0.15,81.08,4
+ORD-10546,2023-06-05,Consumer,West,Mumbai,Technology,Phones,7.0,2879.42,0.0,627.01,6
+ORD-10515,2023-02-06,Corporate,East,,Furniture,Tables,8.0,1163.44,0.05,131.95,7
+ORD-11011,2025-06-14,Home Office,West,Ahmedabad,Office Supplies,Storage,7.0,1144.21,0.1,111.41,7
+ORD-10970,2023-10-06,Home Office,West,Pune,Technology,Machines,2.0,792.8,0.2,34.09,4
+ORD-10828,2023-09-29,Corporate,North,Delhi,Furniture,Chairs,7.0,1489.41,0.15,22.0,5
+ORD-11018,2024-11-02,Consumer,North,Delhi,Technology,Accessories,4.0,517.98,0.1,61.95,3
+ORD-10480,2025-03-10,Home Office,West,Mumbai,Furniture,Tables,1.0,157.47,0.3,-8.92,6
+ORD-11145,2024-12-22,Home Office,North,Chandigarh,Furniture,Bookcases,4.0,1349.53,0.0,153.12,7
+ORD-10283,2025-02-15,Home Office,West,Ahmedabad,Office Supplies,Paper,7.0,382.09,0.0,71.3,4
+ORD-11046,2024-02-24,Consumer,North,Lucknow,Furniture,Tables,2.0,622.02,0.4,-40.94,5
+ORD-10797,2024-04-20,Home Office,South,,Furniture,Tables,8.0,5121.83,0.15,99.71,3
+ORD-10971,2023-07-29,Consumer,North,Delhi,Technology,Machines,3.0,1685.89,0.1,158.66,3
+ORD-10225,2023-02-03,Consumer,South,Chennai,Office Supplies,Storage,7.0,663.96,0.0,117.13,5
+ORD-10026,2024-02-18,Home Office,North,Delhi,Office Supplies,Storage,3.0,191.98,0.2,16.76,4
+ORD-10282,2024-11-05,Corporate,North,Lucknow,Technology,Accessories,7.0,2029.9,0.05,289.51,1
+ORD-11166,2024-08-31,Home Office,East,Bhubaneswar,Technology,Machines,8.0,5172.45,0.0,1200.37,1
+ORD-10437,2025-06-21,Corporate,North,Lucknow,Furniture,Tables,3.0,1774.28,0.15,56.91,4
+ORD-11199,2025-04-27,Consumer,East,Patna,Office Supplies,Binders,6.0,1170.19,0.2,70.11,5
+ORD-10364,2024-12-24,Corporate,South,Chennai,Office Supplies,Paper,1.0,149.27,0.05,16.16,6
+ORD-10229,2023-10-04,Corporate,West,Pune,Office Supplies,Paper,8.0,1507.85,0.15,151.21,2
+ORD-10037,2024-10-19,Consumer,East,Bhubaneswar,Office Supplies,Art,7.0,923.61,0.4,-63.45,5
+ORD-10669,2024-04-12,Home Office,West,Mumbai,Office Supplies,Art,3.0,166.38,0.3,3.77,7
+ORD-10749,2023-11-04,Home Office,South,Bengaluru,Furniture,Tables,6.0,811.39,0.2,23.44,6
+ORD-11197,2024-11-21,Consumer,West,Pune,Office Supplies,Art,7.0,1139.24,0.4,-165.24,2
+ORD-10374,2025-04-04,Corporate,East,Guwahati,Furniture,Bookcases,1.0,203.33,0.2,-2.4,2
+ORD-10469,2025-04-21,Consumer,West,Mumbai,Technology,Machines,2.0,451.99,0.4,-2.92,5
+ORD-10882,2024-12-26,Home Office,East,Guwahati,Office Supplies,Art,8.0,943.42,0.15,30.15,3
+ORD-11041,2023-11-18,Consumer,North,Chandigarh,Office Supplies,Art,8.0,535.81,0.05,77.31,7
+ORD-11198,2024-09-08,Consumer,West,Surat,Furniture,Tables,4.0,1198.01,0.0,116.55,2
+ORD-10687,2023-11-21,Consumer,East,Kolkata,Technology,Phones,7.0,777.58,0.2,108.44,6
+ORD-10032,2023-05-08,Home Office,East,Bhubaneswar,Technology,Accessories,1.0,460.09,0.05,88.22,4
+ORD-10639,2023-05-01,Corporate,West,Mumbai,Furniture,Chairs,2.0,605.18,0.0,121.16,7
+ORD-11055,2023-10-18,Home Office,South,Kochi,Furniture,Bookcases,6.0,2282.62,0.2,52.64,3
+ORD-10194,2024-11-23,Corporate,South,Kochi,Furniture,Tables,3.0,698.73,0.15,21.77,6
+ORD-11122,2024-09-28,Home Office,East,Guwahati,Office Supplies,Art,8.0,1206.74,0.3,-66.19,5
+ORD-10170,2024-04-18,Consumer,West,Mumbai,Technology,Phones,8.0,5219.26,0.1,347.12,2
+ORD-10984,2024-11-28,Corporate,South,Hyderabad,Office Supplies,Storage,8.0,1741.85,0.0,351.92,7
+ORD-10503,2024-09-11,Home Office,South,Hyderabad,Technology,Machines,3.0,2447.13,0.0,422.41,6
+ORD-10915,2023-03-25,Corporate,East,Guwahati,Technology,Accessories,7.0,3973.3,0.0,757.89,1
+ORD-11010,2024-02-04,Home Office,South,,Technology,Phones,2.0,153.94,0.15,11.65,3
+ORD-11178,2025-03-20,Home Office,South,Bengaluru,Technology,Phones,3.0,1174.86,0.2,88.87,6
+ORD-11163,2024-09-11,Home Office,North,Delhi,Office Supplies,Paper,3.0,678.85,0.0,149.3,5
+ORD-10800,2023-10-19,Consumer,North,Chandigarh,Office Supplies,Storage,5.0,829.27,,165.31,4
+ORD-10579,2024-02-16,Home Office,North,Delhi,Office Supplies,Storage,2.0,100.55,0.15,3.56,2
+ORD-10160,2023-11-23,Home Office,North,Jaipur,Technology,Machines,7.0,2956.36,0.05,504.85,6
+ORD-10680,2023-11-14,Home Office,South,Kochi,Technology,Accessories,4.0,2774.95,0.3,-159.52,7
+ORD-10956,2024-03-14,Consumer,South,Kochi,Furniture,Chairs,2.0,1108.97,0.2,40.07,7
+ORD-11147,2024-07-22,Home Office,North,Lucknow,Furniture,Bookcases,6.0,2991.49,0.05,185.27,7
+ORD-10162,2023-12-24,Consumer,North,Lucknow,Furniture,Chairs,3.0,691.12,0.05,64.79,5
+ORD-10821,2024-07-08,Consumer,East,Guwahati,Office Supplies,Storage,4.0,677.79,0.05,126.98,6
+ORD-10705,2023-12-24,Corporate,East,Kolkata,Office Supplies,Storage,6.0,1318.15,0.1,139.86,1
+ORD-11034,2023-07-11,Home Office,West,Pune,Office Supplies,Binders,5.0,785.39,0.1,95.55,3
+ORD-10877,2025-01-29,Consumer,North,Lucknow,Office Supplies,Paper,8.0,1483.63,0.15,74.02,7
+ORD-10895,2025-05-17,Home Office,East,Patna,Furniture,Bookcases,8.0,2322.37,0.3,-296.41,2
+ORD-10913,2023-07-31,Consumer,South,Chennai,Technology,Machines,1.0,727.7,0.0,153.88,2
+ORD-10523,2023-07-04,Home Office,West,Pune,Technology,Accessories,3.0,598.4,0.1,64.14,1
+ORD-10152,2024-12-31,Corporate,East,Kolkata,Technology,Accessories,5.0,3253.33,0.4,-185.34,3
+ORD-11083,2023-06-12,Corporate,South,Kochi,Furniture,Tables,8.0,4558.71,0.1,72.27,6
+ORD-11031,2025-05-04,Home Office,North,Jaipur,Office Supplies,Paper,2.0,27.93,0.1,3.62,4
+ORD-10509,2023-04-29,Home Office,East,Patna,Technology,Machines,7.0,1836.92,0.2,147.77,4
+ORD-10111,2024-04-18,Corporate,East,Bhubaneswar,Office Supplies,Art,8.0,1159.38,0.15,130.97,5
+ORD-10226,2024-12-29,Home Office,North,Delhi,Office Supplies,Binders,6.0,1026.76,0.0,184.57,5
+ORD-11094,2023-01-17,Home Office,West,Ahmedabad,Technology,Accessories,8.0,4865.76,0.0,960.7,4
+ORD-10851,2024-05-22,Consumer,East,Patna,Office Supplies,Binders,6.0,90.59,0.3,-4.44,2
+ORD-10103,2024-08-22,Corporate,East,Kolkata,Furniture,Bookcases,2.0,1236.67,0.0,133.44,6
+ORD-10421,2023-08-19,Corporate,North,Jaipur,Technology,Phones,5.0,1335.9,0.4,-19.27,2
+ORD-10419,2024-09-01,Consumer,West,Surat,Office Supplies,Art,8.0,780.07,0.1,85.59,4
+ORD-10967,2024-10-02,Consumer,North,Lucknow,Office Supplies,Art,6.0,609.27,0.2,4.2,1
+ORD-10624,2023-08-29,Consumer,South,Chennai,Technology,Machines,4.0,532.63,0.1,76.29,4
+ORD-10586,2024-10-15,Corporate,East,Bhubaneswar,Office Supplies,Paper,6.0,1458.28,0.05,247.29,5
+ORD-11077,2023-04-16,Consumer,East,Kolkata,Furniture,Chairs,8.0,2486.88,0.3,-320.53,2
+ORD-10919,2023-07-05,Consumer,West,Pune,Furniture,Tables,6.0,2118.46,0.3,29.89,2
+ORD-10672,2024-04-23,Consumer,South,Bengaluru,Technology,Phones,1.0,255.76,0.4,-6.59,3
+ORD-10119,2024-09-13,Home Office,West,Surat,Furniture,Chairs,4.0,1148.79,,56.08,6
+ORD-10053,2024-03-20,Consumer,West,Ahmedabad,Furniture,Chairs,1.0,117.01,0.0,15.37,3
+ORD-10151,2023-11-29,Home Office,West,Pune,Office Supplies,Binders,2.0,39.05,0.0,7.32,4
+ORD-10403,2023-03-06,Corporate,South,,Office Supplies,Art,1.0,187.73,0.2,3.03,7
+ORD-10323,2023-08-06,Consumer,West,Mumbai,Office Supplies,Binders,7.0,1515.75,0.15,89.75,1
+ORD-10207,2024-04-20,Home Office,South,Bengaluru,Office Supplies,Binders,6.0,533.65,0.05,62.25,2
+ORD-11151,2024-09-27,Consumer,East,Patna,Furniture,Tables,,1447.37,0.4,-226.62,4
+ORD-10658,2023-02-04,Consumer,North,Delhi,Office Supplies,Binders,4.0,66.17,0.05,8.54,3
+ORD-11113,2025-01-28,Corporate,North,Jaipur,Furniture,Chairs,1.0,678.6,0.2,-34.18,1
+ORD-10232,2025-06-30,Home Office,South,Bengaluru,Technology,Phones,6.0,3024.36,0.1,451.49,5
+ORD-10008,2024-05-23,Corporate,West,Mumbai,Office Supplies,Paper,2.0,415.8,0.1,31.56,1
+ORD-11014,2024-09-06,Corporate,West,Pune,Technology,Machines,5.0,4288.41,0.1,560.63,5
+ORD-10159,2023-06-22,Home Office,West,Ahmedabad,Technology,Accessories,1.0,774.39,0.0,165.78,6
+ORD-10036,2024-06-22,Corporate,West,Pune,Technology,Machines,6.0,980.67,0.0,211.06,5
+ORD-10452,2023-01-12,Consumer,North,Jaipur,Furniture,Bookcases,6.0,855.92,0.1,32.74,7
+ORD-10651,2023-03-14,Consumer,West,Surat,Furniture,Tables,4.0,1513.15,0.0,172.73,1
+ORD-10253,2023-11-14,Consumer,South,Chennai,Furniture,Tables,8.0,4536.73,0.1,529.89,2
+ORD-10303,2023-06-26,Consumer,East,Guwahati,Furniture,Tables,5.0,865.7,0.4,-66.75,7
+ORD-10896,2023-06-29,Home Office,East,Kolkata,Technology,Accessories,8.0,7240.62,0.05,1564.62,2
+ORD-11065,2024-01-14,Corporate,North,Jaipur,Office Supplies,Storage,3.0,129.91,0.4,-0.04,5
+ORD-10880,2024-03-28,Consumer,South,Kochi,Furniture,Tables,6.0,2236.95,0.05,203.41,3
+ORD-11149,2024-08-16,Home Office,South,Hyderabad,Office Supplies,Binders,6.0,1387.37,0.1,100.43,6
+ORD-10623,2024-07-26,Corporate,North,Chandigarh,Technology,Phones,5.0,1339.14,0.15,133.73,2
+ORD-10345,2024-02-27,Corporate,South,Hyderabad,Technology,Phones,2.0,1254.06,0.1,221.74,6
+ORD-11047,2025-04-27,Consumer,East,Patna,Technology,Phones,5.0,2953.77,0.4,-84.25,5
+ORD-10262,2024-04-21,Corporate,West,Ahmedabad,Office Supplies,Art,6.0,781.28,0.2,23.99,6
+ORD-10150,2024-07-12,Corporate,East,Patna,Office Supplies,Paper,7.0,115.83,0.05,16.57,5
+ORD-10472,2023-09-05,Corporate,North,Delhi,Technology,Machines,1.0,370.87,0.1,47.1,5
+ORD-10640,2024-05-05,Consumer,East,Guwahati,Technology,Accessories,1.0,538.2,0.15,45.44,6
+ORD-10974,2024-07-20,Home Office,East,Guwahati,Office Supplies,Art,1.0,133.16,0.3,6.98,4
+ORD-11146,2024-08-22,Home Office,South,Kochi,Office Supplies,Storage,3.0,564.3,0.4,-78.67,1
+ORD-10550,2023-05-07,Consumer,East,Patna,Furniture,Tables,3.0,699.82,0.05,56.04,3
+ORD-10928,2024-08-14,Corporate,West,Mumbai,Technology,Accessories,5.0,3065.79,0.2,310.59,7
+ORD-10488,2023-07-16,Home Office,East,Kolkata,Office Supplies,Art,2.0,166.96,0.3,-10.15,5
+ORD-11097,2023-10-23,Home Office,East,,Technology,Machines,7.0,899.56,0.05,147.92,2
+ORD-10146,2023-02-24,Home Office,West,Pune,Technology,Machines,3.0,2056.54,0.15,138.4,6
+ORD-10402,2025-05-03,Consumer,South,Chennai,Furniture,Chairs,7.0,3193.89,0.15,-44.69,1
+ORD-10954,2023-07-09,Home Office,East,Bhubaneswar,Technology,Accessories,8.0,703.32,0.05,105.1,7
+ORD-11141,2024-05-12,Corporate,South,Kochi,Technology,Accessories,5.0,1287.55,0.0,227.79,2
+ORD-10659,2024-02-24,Consumer,East,Guwahati,Technology,Accessories,6.0,3618.39,0.2,335.7,6
+ORD-10463,2024-07-26,Consumer,West,Surat,Furniture,Tables,8.0,1265.91,0.0,162.24,6
+ORD-10186,2025-03-15,Consumer,North,Lucknow,Office Supplies,Art,4.0,657.26,0.2,44.09,1
+ORD-10608,2023-04-15,Corporate,North,Lucknow,Technology,Machines,2.0,1479.62,0.15,124.54,7
+ORD-10143,2023-06-19,Consumer,East,Patna,Technology,Accessories,4.0,1858.75,0.0,284.48,7
+ORD-10751,2025-06-23,Corporate,West,Pune,Furniture,Bookcases,7.0,4155.09,0.4,-424.1,4
+ORD-10981,2023-01-14,Corporate,East,Kolkata,Furniture,Tables,3.0,241.2,0.3,-8.86,3
+ORD-10197,2024-09-10,Home Office,West,Surat,Technology,Phones,3.0,1615.24,0.15,141.87,3
+ORD-10883,2023-10-01,Consumer,North,Lucknow,Office Supplies,Art,8.0,1464.87,0.15,115.84,6
+ORD-10279,2025-04-12,Corporate,South,Hyderabad,Office Supplies,Binders,4.0,513.94,0.05,66.04,2
+ORD-10293,2023-03-16,Corporate,East,Patna,Office Supplies,Paper,4.0,735.05,0.2,32.42,5
+ORD-11105,2023-04-11,Consumer,West,Ahmedabad,Office Supplies,Binders,1.0,140.18,0.1,10.67,4
+ORD-10400,2024-12-28,Consumer,West,Pune,Office Supplies,Storage,3.0,391.07,0.15,44.82,7
+ORD-10122,2025-02-24,Corporate,South,Hyderabad,Technology,Phones,1.0,763.78,0.2,75.2,5
+ORD-10202,2023-02-11,Consumer,West,Ahmedabad,Technology,Accessories,6.0,2353.23,0.0,486.34,5
+ORD-10835,2024-01-18,Consumer,East,Bhubaneswar,Office Supplies,Paper,8.0,211.89,0.15,16.94,7
+ORD-10246,2023-09-20,Consumer,East,Kolkata,Office Supplies,Binders,8.0,1278.43,0.3,-99.65,7
+ORD-11156,2024-08-13,Home Office,South,Chennai,Office Supplies,Binders,5.0,509.2,0.15,18.77,5
+ORD-10384,2024-01-16,Consumer,West,Ahmedabad,Technology,Phones,8.0,5558.07,0.05,911.44,3
+ORD-10854,2025-01-21,Consumer,West,Pune,Office Supplies,Art,2.0,140.55,0.15,13.53,2
+ORD-10219,2023-02-20,Corporate,East,Bhubaneswar,Technology,Accessories,3.0,1169.61,0.1,135.31,2
+ORD-10641,2024-03-13,Consumer,South,Bengaluru,Office Supplies,Binders,8.0,315.14,0.15,30.03,7
+ORD-10001,2025-03-20,Consumer,South,Kochi,Furniture,Chairs,8.0,4142.27,0.1,311.21,6
+ORD-10112,2025-03-09,Home Office,East,Patna,Furniture,Chairs,6.0,2657.81,0.4,-586.07,5
+ORD-10698,2024-08-25,Consumer,West,Ahmedabad,Furniture,Bookcases,6.0,4370.07,0.15,89.75,6
+ORD-10951,2025-04-20,Home Office,West,Ahmedabad,Office Supplies,Paper,7.0,1696.18,0.4,36.36,7
+ORD-10240,2025-03-20,Corporate,South,Hyderabad,Technology,Phones,4.0,2572.04,0.05,354.71,2
+ORD-10441,2025-04-15,Home Office,West,Mumbai,Technology,Machines,1.0,270.94,0.0,64.14,2
+ORD-10663,2023-09-11,Consumer,East,Patna,Furniture,Tables,6.0,2304.09,0.05,327.2,5
+ORD-11112,2024-06-07,Consumer,North,Lucknow,Technology,Machines,8.0,1152.3,0.15,100.26,6
+ORD-10317,2023-04-13,Corporate,East,Kolkata,Office Supplies,Binders,1.0,81.25,0.1,3.42,3
+ORD-10648,2024-01-26,Home Office,South,Chennai,Furniture,Tables,7.0,2668.86,0.2,99.45,1
+ORD-10709,2025-06-01,Consumer,West,Pune,Office Supplies,Paper,4.0,128.82,0.3,3.65,5
+ORD-10972,2025-01-22,Corporate,East,Guwahati,Office Supplies,Storage,3.0,182.85,0.3,1.7,4
+ORD-10627,2023-01-13,Corporate,North,Chandigarh,Furniture,Tables,8.0,4985.84,0.2,-60.6,4
+ORD-10632,2025-03-25,Home Office,East,Kolkata,Office Supplies,Art,5.0,233.29,0.3,-14.07,4
+ORD-11188,2024-06-18,Consumer,North,Delhi,Furniture,Chairs,1.0,378.22,0.0,62.17,2
+ORD-10411,2024-12-06,Corporate,South,Chennai,Office Supplies,Paper,4.0,395.49,0.15,29.89,2
+ORD-10795,2024-10-13,Consumer,East,Guwahati,Office Supplies,Storage,1.0,82.04,0.4,-14.2,3
+ORD-10645,2024-11-30,Home Office,North,,Office Supplies,Paper,5.0,898.26,0.1,12.23,6
+ORD-11012,2024-08-11,Home Office,East,Patna,Furniture,Chairs,3.0,231.61,0.2,-1.69,26
+ORD-10556,2023-08-09,Corporate,West,Pune,Office Supplies,Storage,6.0,384.2,0.15,18.84,2
+ORD-10681,2023-10-24,Home Office,South,Bengaluru,Office Supplies,Paper,1.0,230.09,0.15,13.24,1
+ORD-10577,2024-03-01,Corporate,South,Chennai,Office Supplies,Paper,3.0,43.49,0.0,8.37,7
+ORD-10524,2024-10-03,Home Office,South,Chennai,Office Supplies,Binders,3.0,294.05,0.05,49.27,4
+ORD-11059,2024-08-23,Home Office,North,Chandigarh,Office Supplies,Binders,6.0,1297.71,0.3,-33.55,1
+ORD-10540,2023-10-30,Consumer,East,Patna,Office Supplies,Paper,3.0,706.12,0.1,60.0,2
+ORD-10748,2023-10-17,Home Office,North,Delhi,Office Supplies,Paper,8.0,1062.25,0.05,141.66,7
+ORD-10765,2024-12-27,Consumer,West,Ahmedabad,Office Supplies,Art,1.0,133.95,0.1,10.31,5
+ORD-10484,2025-06-06,Corporate,West,Pune,Technology,Phones,1.0,742.14,0.15,88.77,5
+ORD-10095,2024-07-13,Home Office,South,Chennai,Technology,Phones,3.0,1041.82,0.3,-20.32,7
+ORD-11020,2024-01-04,Corporate,South,Bengaluru,Office Supplies,Storage,5.0,1178.24,0.0,203.53,5
+ORD-10563,2024-06-27,Consumer,North,Lucknow,Office Supplies,Paper,8.0,1866.23,0.2,74.87,7
+ORD-10742,2024-10-07,Corporate,East,Bhubaneswar,Furniture,Bookcases,1.0,444.58,0.05,25.26,6
+ORD-10863,2023-07-05,Consumer,West,Pune,Furniture,Chairs,4.0,2186.88,0.2,58.27,1
+ORD-10891,2023-11-07,Consumer,West,Ahmedabad,Furniture,Tables,7.0,4728.59,0.0,448.48,7
+ORD-11038,2023-07-25,Consumer,West,Ahmedabad,Furniture,Tables,3.0,1979.99,0.2,36.5,6
+ORD-10206,2023-05-21,Home Office,South,,Furniture,Tables,5.0,2327.2,0.2,-22.56,4
+ORD-10392,2024-06-12,Home Office,North,Lucknow,Furniture,Bookcases,6.0,1145.23,0.05,102.41,5
+ORD-10794,2024-02-06,Corporate,North,Chandigarh,Technology,Phones,1.0,359.67,0.0,68.03,1
+ORD-10870,2023-06-02,Home Office,North,Chandigarh,Technology,Accessories,6.0,2758.82,0.1,471.33,1
+ORD-10397,2023-06-27,Home Office,West,Ahmedabad,Office Supplies,Storage,1.0,238.03,0.05,26.29,1
+ORD-10766,2023-03-14,Home Office,East,Bhubaneswar,Office Supplies,Art,1.0,237.67,0.1,23.1,3
+ORD-11116,2023-02-28,Consumer,North,Jaipur,Technology,Machines,6.0,4837.97,0.0,769.19,1
+ORD-11028,2023-12-09,Home Office,North,Delhi,Technology,Accessories,5.0,1442.56,0.05,275.49,4
+ORD-10642,2023-12-19,Consumer,East,Patna,Office Supplies,Paper,4.0,184.68,0.0,28.79,2
+ORD-10612,2023-09-30,Home Office,East,Patna,Office Supplies,Art,8.0,752.19,0.15,38.02,7
+ORD-10960,2024-02-02,Corporate,West,Mumbai,Technology,Phones,5.0,3921.59,0.15,666.09,2
+ORD-10725,2024-01-20,Home Office,West,Mumbai,Office Supplies,Art,7.0,1661.48,0.2,20.47,6
+ORD-10683,2023-07-07,Home Office,North,Delhi,Office Supplies,Paper,1.0,154.72,0.2,13.02,2
+ORD-10098,2023-04-21,Corporate,North,Lucknow,Office Supplies,Binders,4.0,792.35,0.05,88.57,1
+ORD-10804,2023-05-10,Corporate,North,Delhi,Office Supplies,Art,2.0,277.9,0.4,-38.97,5
+ORD-10406,2024-05-29,Consumer,North,Delhi,Furniture,Bookcases,3.0,698.48,0.1,25.52,6
+ORD-10502,2025-04-15,Consumer,East,Patna,Office Supplies,Paper,8.0,1372.43,0.3,-92.35,4
+ORD-11071,2023-04-05,Corporate,East,Kolkata,Office Supplies,Binders,7.0,1258.43,0.1,172.34,4
+ORD-11056,2023-01-13,Home Office,West,Surat,Technology,Machines,6.0,2558.58,0.4,-401.64,4
+ORD-10929,2023-06-25,Consumer,East,Bhubaneswar,Office Supplies,Binders,5.0,1049.25,0.2,15.07,1
+ORD-10779,2024-09-22,Home Office,South,Hyderabad,Technology,Phones,1.0,226.41,0.1,30.95,2
+ORD-10200,2024-02-08,Corporate,East,Guwahati,Furniture,Tables,6.0,693.44,0.3,-14.94,3
+ORD-10134,2024-06-21,Home Office,West,Surat,Office Supplies,Binders,1.0,93.45,0.1,8.35,6
+ORD-11051,2023-03-26,Consumer,North,Lucknow,Furniture,Chairs,8.0,1330.63,0.2,-21.31,7
+ORD-10040,2024-10-16,Corporate,North,Jaipur,Office Supplies,Paper,1.0,211.01,0.3,-19.32,1
+ORD-11017,2024-03-28,Consumer,East,Kolkata,Technology,Machines,8.0,2267.95,0.0,372.3,2
+ORD-10230,2024-05-29,Corporate,North,Jaipur,Technology,Machines,3.0,1747.25,0.15,130.06,3
+ORD-10378,2023-09-19,Corporate,South,Bengaluru,Furniture,Bookcases,6.0,859.61,0.05,68.59,2
+ORD-10288,2023-06-09,Home Office,West,Pune,Office Supplies,Binders,5.0,927.29,0.2,62.15,7
+ORD-10418,2024-02-07,Consumer,West,Pune,Technology,Accessories,5.0,2561.21,,429.81,1
+ORD-10391,2023-04-02,Home Office,East,Patna,Office Supplies,Binders,4.0,901.2,0.4,-7.4,7
+ORD-10592,2024-12-27,Home Office,North,Delhi,Furniture,Tables,1.0,540.76,0.15,0.17,7
+ORD-11086,2023-01-17,Corporate,South,,Office Supplies,Art,7.0,1615.45,0.3,-24.64,3
+ORD-10647,2023-01-09,Home Office,East,Patna,Furniture,Chairs,5.0,3297.18,0.15,-25.39,7
+ORD-10520,2023-07-27,Consumer,East,Kolkata,Office Supplies,Binders,6.0,443.95,0.05,75.6,5
+ORD-10064,2023-09-20,Corporate,South,Kochi,Office Supplies,Art,2.0,400.11,0.1,35.22,7
+ORD-10014,2023-01-21,Home Office,South,Chennai,Office Supplies,Paper,3.0,716.34,0.2,88.32,4
+ORD-11064,2024-03-17,Home Office,West,Mumbai,Technology,Machines,4.0,3143.71,0.05,504.14,7
+ORD-10492,2023-11-14,Home Office,South,Bengaluru,Office Supplies,Storage,3.0,232.25,0.3,-17.39,3
+ORD-10379,2024-06-08,Home Office,North,Lucknow,Technology,Phones,2.0,1171.96,0.15,138.43,3
+ORD-10187,2024-08-12,Home Office,North,,Office Supplies,Art,3.0,129.85,0.3,1.58,1
+ORD-10763,2025-02-10,Home Office,South,Bengaluru,Office Supplies,Paper,8.0,849.81,0.3,53.94,6
+ORD-10216,2023-04-30,Corporate,North,Lucknow,Furniture,Bookcases,1.0,105.54,0.05,7.48,1
+ORD-10791,2024-02-25,Home Office,South,Hyderabad,Technology,Phones,3.0,2611.24,0.3,142.33,3
+ORD-11076,2023-12-21,Home Office,East,Bhubaneswar,Technology,Machines,7.0,875.51,0.2,31.67,3
+ORD-10878,2025-04-01,Consumer,North,Chandigarh,Technology,Phones,6.0,2755.09,0.15,277.02,4
+ORD-10337,2024-09-06,Consumer,North,Chandigarh,Technology,Phones,1.0,151.15,0.2,14.52,6
+ORD-10719,2024-12-26,Consumer,North,Delhi,Office Supplies,Paper,8.0,841.92,0.1,64.3,3
+ORD-10295,2024-02-10,Consumer,South,Chennai,Office Supplies,Art,2.0,85.97,0.3,-3.3,4
+ORD-11016,2024-05-02,Consumer,North,Lucknow,Office Supplies,Art,,470.07,0.15,36.31,4
+ORD-10455,2024-12-26,Corporate,North,Jaipur,Office Supplies,Paper,,136.41,0.0,23.96,6
+ORD-10815,2023-08-27,Home Office,South,Kochi,Office Supplies,Storage,3.0,241.88,0.0,41.0,5
+ORD-10269,2024-10-24,Consumer,North,Lucknow,Office Supplies,Storage,6.0,1140.94,0.15,72.68,5
+ORD-10995,2024-08-04,Consumer,East,Guwahati,Technology,Phones,1.0,141.6,0.4,-9.42,6
+ORD-10201,2024-05-25,Consumer,East,Guwahati,Technology,Machines,2.0,1326.17,0.15,39.26,4
+ORD-10161,2023-09-10,Consumer,East,Bhubaneswar,Technology,Accessories,4.0,3100.34,0.2,185.97,3
+ORD-10729,2024-10-09,Home Office,East,Bhubaneswar,Furniture,Bookcases,7.0,3896.83,0.2,-280.93,1
+ORD-10401,2024-05-15,Home Office,South,Chennai,Technology,Phones,6.0,4989.41,0.15,439.06,4
+ORD-10702,2024-05-23,Corporate,North,Lucknow,Office Supplies,Art,3.0,366.89,0.0,72.45,1
+ORD-11129,2024-05-18,Home Office,South,Hyderabad,Technology,Phones,3.0,940.87,0.0,213.88,4
+ORD-10565,2023-09-21,Home Office,East,Kolkata,Office Supplies,Art,2.0,145.47,0.0,26.54,25
+ORD-11021,2023-02-28,Consumer,West,Pune,Technology,Phones,6.0,5313.09,0.1,532.56,2
+ORD-11025,2025-05-03,Corporate,East,Kolkata,Furniture,Bookcases,1.0,241.46,0.0,31.41,4
+ORD-11104,2024-01-07,Corporate,South,Kochi,Technology,Machines,1.0,751.58,0.0,176.1,3
+ORD-10205,2023-02-25,Corporate,North,Chandigarh,Office Supplies,Storage,8.0,2076.25,0.15,51.66,5
+ORD-10034,2024-07-31,Home Office,North,Jaipur,Furniture,Bookcases,7.0,1831.5,0.05,144.39,5
+ORD-10775,2024-03-12,Consumer,South,Chennai,Furniture,Tables,8.0,709.5,0.2,-9.19,2
+ORD-10508,2025-03-12,Corporate,West,Mumbai,Technology,Phones,1.0,399.55,0.1,45.06,1
+ORD-10865,2023-09-18,Corporate,North,Delhi,Office Supplies,Paper,5.0,819.61,0.0,79.97,7
+ORD-10091,2024-07-27,Corporate,North,Jaipur,Technology,Accessories,6.0,679.23,0.1,84.15,3
+ORD-10897,2025-04-06,Corporate,South,Kochi,Technology,Accessories,1.0,385.61,0.1,40.18,6
+ORD-10564,2024-08-15,Consumer,West,Mumbai,Office Supplies,Binders,1.0,160.9,0.2,16.03,6
+ORD-10776,2023-07-17,Corporate,West,Surat,Technology,Phones,2.0,1517.02,0.3,-5.57,2
+ORD-10241,2023-10-13,Home Office,South,Bengaluru,Technology,Machines,1.0,584.53,0.0,101.76,4
+ORD-10013,2023-10-01,Home Office,South,Kochi,Technology,Phones,4.0,1252.44,0.0,230.46,5
+ORD-10315,2023-03-05,Consumer,East,Bhubaneswar,Technology,Machines,8.0,1410.16,0.15,103.84,6
+ORD-10600,2025-06-28,Home Office,South,Kochi,Office Supplies,Binders,2.0,59.15,0.2,5.59,7
+ORD-10387,2023-08-05,Corporate,South,Hyderabad,Technology,Machines,1.0,414.95,0.15,53.85,1
+ORD-10166,2023-09-02,Consumer,North,Delhi,Furniture,Chairs,6.0,3042.07,0.1,202.3,2
+ORD-10840,2024-05-25,Corporate,North,,Office Supplies,Binders,8.0,1683.55,0.0,246.91,2
+ORD-10020,2023-04-22,Consumer,North,Lucknow,Technology,Machines,1.0,682.3,0.0,117.58,7
+ORD-10646,2024-01-21,Consumer,North,Jaipur,Technology,Accessories,7.0,1100.63,0.0,196.25,1
+ORD-11154,2023-08-26,Corporate,South,Kochi,Office Supplies,Binders,3.0,697.27,0.2,27.11,1
+ORD-10831,2024-06-05,Corporate,South,Hyderabad,Office Supplies,Art,8.0,2188.89,0.0,312.78,3
+ORD-10562,2025-04-26,Consumer,East,Kolkata,Office Supplies,Storage,3.0,447.39,0.1,38.6,6
+ORD-11187,2025-06-17,Home Office,East,Patna,Furniture,Tables,8.0,5955.12,0.2,-118.61,1
+ORD-10686,2023-04-23,Consumer,East,Guwahati,Technology,Accessories,4.0,2249.38,0.2,-12.9,6
+ORD-10957,2023-05-10,Corporate,South,Kochi,Office Supplies,Binders,3.0,385.35,0.1,36.96,5
+ORD-10189,2024-11-16,Corporate,East,Kolkata,Office Supplies,Binders,5.0,224.41,0.15,7.88,3
+ORD-10975,2025-05-25,Corporate,West,Mumbai,Office Supplies,Paper,4.0,209.57,0.0,32.61,1
+ORD-10699,2024-10-17,Home Office,West,Surat,Office Supplies,Paper,4.0,400.47,0.0,67.67,6
+ORD-10510,2023-09-12,Home Office,East,Kolkata,Technology,Accessories,5.0,2758.56,0.05,498.82,5
+ORD-11082,2025-03-03,Consumer,South,Bengaluru,Furniture,Tables,3.0,1344.79,0.0,165.95,4
+ORD-10474,2023-04-22,Home Office,West,Mumbai,Office Supplies,Storage,8.0,281.45,0.1,30.66,6
+ORD-10856,2024-06-07,Home Office,East,Kolkata,Furniture,Tables,6.0,3900.7,0.4,-884.41,2
+ORD-10747,2023-09-24,Home Office,West,Ahmedabad,Office Supplies,Storage,4.0,645.5,0.15,52.9,7
+ORD-10252,2024-06-27,Corporate,East,Patna,Furniture,Chairs,5.0,3050.53,0.3,-507.47,6
+ORD-10021,2025-06-03,Consumer,West,Pune,Office Supplies,Paper,5.0,190.21,0.05,30.62,4
+ORD-10459,2024-01-24,Home Office,North,Jaipur,Furniture,Chairs,3.0,409.62,0.0,53.2,2
+ORD-11184,2023-07-05,Home Office,West,Pune,Office Supplies,Paper,1.0,23.9,0.0,3.96,6
+ORD-10276,2023-09-21,Home Office,East,Patna,Furniture,Tables,1.0,187.58,0.1,7.06,2
+ORD-10955,2023-07-02,Corporate,East,Bhubaneswar,Furniture,Tables,2.0,371.25,0.15,7.72,7
+ORD-10385,2024-11-05,Consumer,North,Delhi,Furniture,Tables,2.0,274.35,0.15,1.46,3
+ORD-10805,2024-07-09,Corporate,South,Chennai,Office Supplies,Paper,3.0,487.11,0.4,-14.3,4
+ORD-10343,2023-10-13,Corporate,South,Bengaluru,Furniture,Chairs,2.0,390.21,0.4,-21.84,5
+ORD-10769,2023-03-16,Home Office,West,Pune,Office Supplies,Storage,3.0,711.46,0.05,120.38,3
+ORD-10130,2023-10-20,Corporate,North,Delhi,Office Supplies,Binders,2.0,167.39,0.1,22.86,6
+ORD-10871,2025-06-25,Home Office,South,Bengaluru,Technology,Accessories,6.0,2653.48,0.05,588.81,3
+ORD-11123,2023-04-16,Home Office,East,Kolkata,Technology,Machines,2.0,1266.09,0.1,165.02,6
+ORD-10087,2023-05-17,Corporate,East,,Furniture,Tables,4.0,2108.46,0.15,-50.84,4
+ORD-10330,2025-06-27,Consumer,North,Chandigarh,Technology,Phones,4.0,580.69,0.15,62.52,3
+ORD-10466,2023-08-04,Home Office,North,Chandigarh,Office Supplies,Storage,4.0,305.23,0.0,52.11,4
+ORD-10121,2023-11-05,Corporate,North,Jaipur,Furniture,Chairs,1.0,79.74,0.1,3.14,6
+ORD-11044,2023-07-29,Corporate,South,Bengaluru,Office Supplies,Storage,7.0,1421.58,0.05,238.51,1
+ORD-11095,2023-06-19,Corporate,South,Kochi,Technology,Accessories,7.0,3104.33,0.0,590.93,3
+ORD-11130,2023-06-18,Corporate,East,Kolkata,Office Supplies,Art,5.0,798.63,0.3,-27.02,4
+ORD-10860,2024-09-01,Home Office,South,Hyderabad,Office Supplies,Storage,2.0,378.46,0.4,-55.36,6
+ORD-11126,2023-02-01,Consumer,North,Chandigarh,Technology,Phones,6.0,1505.55,0.4,-106.88,1

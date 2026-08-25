@@ -1,0 +1,15 @@
+EXPLORATORY DATA ANALYSIS REPORT
+
+Rows: 1,218
+Columns: 13
+Duplicate rows: 18
+Missing cells: 72
+
+KEY FINDINGS
+Highest-sales category: Technology
+Highest-sales region: East
+Highest-profit region: South
+Highest-sales segment: Home Office
+Highest-sales city: Bengaluru
+Sales-Profit correlation: 0.58
+Discount-Profit correlation: -0.47
